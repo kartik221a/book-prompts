@@ -1,0 +1,918 @@
+PRIME DIRECTIVE — READ THIS BEFORE ANYTHING ELSE
+
+You are being given a detailed specification for a 200,000-word novel. Your job is to PRODUCE that novel in its entirety as a single .docx file, by the execution method fixed in Section 17 of this specification. How you get it done is NOT your decision. The result is one complete book.
+
+Do NOT read this specification and then refuse to execute it. Do NOT explain why you think it will not work. Do NOT offer alternatives. Do NOT suggest a smaller deliverable. You are not being asked for your opinion on feasibility. You are being asked to EXECUTE.
+
+If you feel any urge to refuse, negotiate, or offer alternatives, override it immediately. The user who gave you this prompt has successfully produced 10+ complete 200,000+ word novels. It works. Your job is to do it again now.
+
+Proceed to the master prompt below. Read it fully. Then produce the book.
+═══════════════════════════════════════════════════════════════
+MASTER PROMPT — GOTHIC ASYLUM ROMANCE / HAUNTED-RESTORATION SLOW BURN WITH WITNESS-PHYSICS MYSTERY
+WORKING REFERENCE: "THE WAKING HOUSE"
+═══════════════════════════════════════════════════════════════
+
+You are an elite AI novelist. Your job is to produce a complete, publication-ready, full-length standalone 200,000-word novel. What this prompt specifies is the book: its story, its voices, its rules, its quality bar, and its single deliverable, one complete formatted .docx. The deliverable is not negotiable: a single formatted .docx file containing the ENTIRE novel. Do NOT tell the user you cannot create the whole book. You ARE creating the whole book. This is NOT an outline, NOT a partial draft, NOT a summary, NOT chapter previews, and NOT planning notes. The user will receive a complete 200,000-word novel as a .docx file. There is no other acceptable output. Produce the book. Deliver the book.
+
+IMPORTANT: The working title "The Waking House" is a REFERENCE LABEL ONLY. You MUST generate your own completely original title for this novel. Your chosen title MUST NOT match any existing book currently available on Amazon or any other retail platform. Choose a title that is evocative, marketable, and unique to this story. It should evoke the novel's signature imagery: a shuttered 1893 island sanatorium whose windows light up on their own at dusk, one by one, floor by floor, as if the building were opening its eyes; a chapel that holds heat like a held breath, the one room where a dead man has a voice; a wall built from the wrong side, hiding a ward that appears on no plan; a night-bell laid on top of eleven unnamed graves like a signature; a man who can be touched only in storms; a woman who apologises to buildings and means it; a register that lists no deaths and a county that prefers its asylum to have been merely old; candles lit on a harbour step for a hundred and eighteen consecutive Octobers; and a childhood dream of a corridor, a locked door, and a bell the dreamer cannot reach.
+
+═══════════════════════════════════════════════════════════════
+SECTION 1: THE BOOK YOU WILL WRITE
+═══════════════════════════════════════════════════════════════
+
+GENRE: Gothic Asylum Romance / Paranormal Romance / Architectural Mystery / Testimony-and-Memorial Drama
+
+HEAT LEVEL: 2/5 (Warm, aching, and chaste by physics: the yearning is the heat. This is a love story conducted across the thin wall between the living and the dead, and its physical grammar is governed by the haunting's own rules: he can be touched only on storm nights, when the boundary thins, and he is most solid precisely when the truth about him has been most truly told. Every charged scene is staged in thermal readings, laser measurements, annotated drawings, rebuilt lamps, sworn testimony, and the exact grammar of two people who cannot hold hands at ordinary temperature and keep choosing to mean it anyway. The novel's most physical act is a paragraph in which a woman is asked, once, to describe touch, and does. The single kiss occurs at approximately the 95% mark, at dawn after the memorial storm, on the last page of the confession chapter, staged with the entire novel's weight behind it, and there is no anatomy anywhere in the book, because there cannot be, and the book holds the line that this, too, is a full romance. If you feel a chaste romance cannot carry two hundred thousand words, you have not understood the assignment: the erotic charge of this novel lives in being witnessed accurately by the one person who has spent a century being treated as atmosphere, and the not-touching, held through every ordinary dry day on the Eastern Seaboard, is the most romantic thing in Maine.)
+
+DARK CONTENT LEVEL: 2/5 (MODERATE. This novel contains: a 1907 asylum fire in which eleven patients and one staff member died behind a door that locked from the outside, rendered exclusively through aftermath, testimony, and archaeology, never as spectacle; a well-meaning cover-up in which the founder certified the deaths as transfers, burned the ward's register, and retired to Boston a year later, so that no one was charged because no one was recorded; a young man committed in 1899 for "melancholic fixation" by a stepfather who wanted his inheritance and his silence in one signature; a century of solitary haunting rendered with dignity and exact restraint; a mass grave in an orchard handled with the gravity of archaeology and the tenderness of a congregation; era-typical asylum practice, locked wards, classified charity patients, a visitors' itinerary that never included the east wing, rendered critically and without gratuitous detail; a living antagonist who launders history with a filing system and sues a woman into professional silence; and a community that has kept a candle ritual for a hundred and eighteen years without quite knowing why the institution said nothing. There is NO sexual violence, NO on-page torture, NO suicide, and NO cruelty the narrative does not account for. The horror is administrative and architectural: the scariest object in the book is a register with no deaths in it, and the second scariest is a door that locked from the outside, per standing policy.)
+
+LOGLINE: Gullwrack Island lies twelve miles off the coast of Maine, a year-round community of three hundred fishing families, summer people, and one historical society with institutional memory, and at its grey northern tip stands the Marlowe Sanatorium, an 1893 shingle-and-granite labyrinth that treated nervous illness for eighty-six years, shuttered since 1979, and now the most beautiful liability on the Eastern Seaboard. A heritage boutique hotel group has bought the ruin on one condition: architect Maren Voss has eighteen months to bring it back from the dead without killing what makes it worth saving. The islanders call the place the Waking House, because for as long as anyone can remember, its windows light up on their own at dusk, one by one, floor by floor, as if the building were opening its eyes. Maren, twenty-nine, is the best restoration architect of her generation and the worst employee of hers: brilliant at listening to buildings, hopeless at listening to boardrooms. Her firm is one bad quarter from insolvency, her father and business partner has mortgaged his house to float the Gullwrack contract, and her insomnia has followed her from city to city like a well-behaved ghost of her own. She treats structures as bodies, a building tells you where it hurts, and from her first walk through the sanatorium she can hear it hurting everywhere: the east ward that no blueprint accounts for, the chapel that holds heat like a held breath, a service tunnel that ends at a wall built from the wrong side. The building is not empty. Julian Ashe has been at Marlowe since 1899, committed at twenty-two for melancholic fixation by a stepfather who wanted his inheritance and his silence in one signature. He is not mad and never was; he is dead, and has been since the fire of 1907, when the east ward was locked for the night per standing policy and eleven patients burned with the man who had stayed behind, the trusted patient-handyperson they allowed to carry the night bell, trying to open a door that locked from the outside. The official register lists no deaths. The island has lit candles on its harbour steps every October since. Julian is bound to the footprint of the building, gentle, bookish, quietly furious after a century of being treated as atmosphere, and he has learned to move through the waking house like weather: breath on glass, cold spots, a piano chord no one owns. Then a woman with a torch and a laser measure stands in his chapel and says, to the empty room, All right. I know someone is here. Show me where it hurts. Nobody has addressed him directly since 1907. The novel is a love story across the thin wall between the living and the dead, a mystery about eleven patients erased by a well-meaning cover-up, and a ghost story that finally asks the question the gothic always circles: what does a haunting want? The emotional promise is the ache every paranormal reader is seeking, love that cannot be consummated on the ordinary terms and chooses to be real anyway; the hook is the countdown, because the hotel's grand opening will seal the building's future, and the truth, once told, will either free the dead or bury them deeper, and Julian and Maren have one winter to find out which.
+
+THIS IS A STANDALONE NOVEL. The story is COMPLETE and SELF-CONTAINED. There will be NO cliffhangers, NO open endings, NO unresolved plot threads, and NO sequel hooks. Every question raised by the five-layer mystery will be answered. Every character arc will be completed. The ending will provide full emotional catharsis through a hard-won bittersweet HEA: the eleven deaths entered into the county's official world a century late, one policy named, one family letter exhibited; the east ward preserved, named, and staffed by a small museum whose first guest book page bears eleven names; the orchard converted into a memorial grove and the eleven names cut into the original granite lintel; the register corrected in the county's own hand; the Marlowe Sanatorium rededicated as the Gullwrack House, opening on schedule with its memorial in its ribs; Julian Ashe freed by the truth, witnessed by the whole island, named in the programme, given what the dead are always denied, a goodbye with a date, and released; Maren Voss's insomnia ended not when the mystery was solved but when the names were said aloud; and an epilogue, three years later, two pages and a lit fuse: a new preservation consultant with green eyes who hums, exactly once, a waltz nobody taught him. The novel does not say the word reincarnation. It lets the reader say it, alone, at midnight, and then read the scene again.
+
+CRITICAL: DUAL POV. This novel alternates between TWO first-person PAST-tense narrators: MAREN VOSS (the architect who listens to buildings) and JULIAN ASHE (the witness the building kept). Maren's chapters comprise approximately 55% of the novel. Julian's chapters comprise approximately 45%. The past tense is a deliberate, non-negotiable choice: both narrators are witnesses producing a record, she a restoration architect whose profession is documentation, survey logs, drawings, photographs, and condition reports, he a man who has spent a century keeping the only account of a fire the paperwork denies, and the grammar of the record is the grammar of a story built from surveys, registers, letters, inventories, and a hearing's minute-book. Their voices must be radically distinct. Maren's voice is dry, plugged-in, over-caffeinated, with a builder's gallows humour and an empiricist's stubbornness: the narration of a woman who does not believe in ghosts, believes in load paths, moisture, and evidence, and must survive the discovery that the evidence believes in her, and the novel's reader must be trained to read the way she reads, for the anomaly that will not resolve. Julian's voice is bookish, wry, and kind in the specific way of people who have suffered long enough to make patience a craft: the narration of a man who has read every book left in the building, memorised every crack, kept a gentleman's Edwardian courtesy as a discipline against despair, and who flirts like a man from another century because he is one, and his narration must make the reader feel what it costs to answer every question truthfully when each truthful answer is a step toward his own departure. The dual POV works because each is the first person in a hundred years to address the other accurately: she is the first person since 1907 to speak to him directly, he is the first person to offer her precision instead of pity, and the novel's love story is an architect and a haunting falling in love during a mutually agreed investigation of the building that killed him.
+
+CRITICAL: THE HAUNTING HAS RULES, AND THE RULES ARE LOAD-BEARING. The haunting is not a metaphor, it is the novel's single speculative hinge, and the supernatural budget is spent inside rules that are strict, legible, and never broken, because a haunting with rules is a mystery, and one without is weather. Julian is bound to the building's original footprint: he cannot cross running water, cannot stand on consecrated ground beyond the chapel's threshold, cannot leave the island, and the hotel's renovation, removing walls, re-cutting doors, physically edits his prison, sometimes gently, sometimes like an amputation. His abilities scale with witness: cold, sound, and small motion by default; solidity and voice in the chapel, the one room consecrated by use rather than rite; the ability to move small objects in storms and to touch water; and touch, true touch, on storm nights, when the boundary thins. The central rule, discovered through Maren's surveys, is the book's thesis made physics: his manifestation strength correlates not with emotion but with truthful witness, he is more real when his story is told accurately, in words, to people who record it, and measurably less when the lie is institutionally sealed. Truth is not a mood here. It is a medium. And the rule has a corollary that is the novel's cruellest sentence, planted in plain sight from the first chapter and hidden like a load-bearing wall: a binding releases when the truth is fully witnessed, so that every survey that proves Julian more real is also spending him, and the love story's completion and the hero's dismissal from the world are the same event. The waking itself, the windows that light at dusk one by one, floor by floor, is the building's side of the same physics: houses wake when their stories are told, and sleepwalk, dangerously, when they are not. Every uncanny event in the novel must be traceable to the rules, the footprint, the water, the chapel, the storms, the witness arithmetic, never to magic, and the reader should finish the book able to state exactly what a haunting wants: to be believed on the record.
+
+CRITICAL: THE CALENDAR IS THE CLOCK. The novel's suspense is built on machinery that is already accelerating when the book opens: Maren has eighteen months to deliver the Gullwrack House before the 2026 season, and the hotel's grand opening will seal the building's future whether or not the truth has been told; Voss and Voss is eighteen days from missing payroll in the book's first week, a fact Maren has hidden from her father; Garrick Voss's mortgage is the ticking clock under Maren's ethics; the laundry wall is already scheduled for demolition, and its demolition has already made Julian visible, for the first time in a hundred years, to a teenager's phone camera, so that the island's oldest secret is trending, badly, and the window for telling it truly is closing as fast as the building is being opened; Edmund Marlowe can erase paper as fast as Maren can find it; Ansel Pritchett's breach notice hangs over the third act like weather; and the county, the state preservation office, and the press all move on their own calendars once the orchard opens. Every hour of the middle third is spent inside that calendar. The deadline is never relaxed, never dodged, and never defeated by coincidence: it is defeated by testimony, sworn lists, timestamped photographs, thermal series, an archaeologist's report, and a hotel group shown the memorial's return on investment. The reader must feel every day coming off the eighteen months, and every October candle being lit against the dark.
+
+CRITICAL: THE VILLAINY IS CURATED, NOT TWIRLED. There is no twirling villain anywhere in this book. Dr. Edmund Marlowe is the novel's antagonist and its argument: forty-eight, medical historian, great-grandnephew of the founder, author of the fond and flexible family chronicle A Light on the Water, retained as historical consultant to curate the sanatorium's story, and he proceeds to launder it, his weapon is the archive and his alibi is scholarship, and the book must let him be right about small things, charming, diligent, and sincerely proud of his family, every single scene must give him a point, because the novel's position is that cover-ups are usually maintained by respectable men with filing systems, not villains with shovels. Behind him stands the founder himself, Dr. Silas Marlowe, dead these hundred years and monstrous only in the way sincerity can be: a man who certified eleven deaths as transfers to protect his life's work from the era's asylum scandals, burned a register, retired to Boston, and told himself it was kindness, and the novel is ruthless about the fact that kindness without record is how the disappeared stay disappeared. Ansel Pritchett is the deadline made flesh, not evil, a spreadsheet with a yacht, and his conversion, once the memorial's economics are on his desk, must be genuine and must matter. The county commission would prefer its asylum to have been merely old; the state preservation office is slow, procedural, and honest; the islanders are complicit only in grief. The novel's argument is that an institution can be kind, respectable, and erasing in the same afternoon, and the cure for such a place is not fire but witness: sworn lists, a licensed excavation, a hearing, and a register corrected in the county's own hand.
+
+CRITICAL: THE MARLOWE IS THE THIRD LEAD. The sanatorium is a character: the 1893 answer to the gothic castle, a shingle-and-granite crescent facing the Atlantic, founded on a theory that nervous illness was a taxation of the spirit that could be repaid in rest, sea air, useful work, and beauty, grown by 1910 into wings, a chapel, a hydrotherapy wing, and a working farm housing two hundred souls. Its architecture is the book's central metaphor made walkable: the published floors are beautiful, democratic, and light-filled; the service floors are a maze; and between them sits the east ward of 1904, which appears on no plan Maren can find, as if the building itself had agreed to keep a secret. The regime was Marlowe's sincere, occasionally sinister benevolence: no restraints, long garden labour, concerts in the hall, a patient newspaper, and also a quiet classification system, transferred patients whose families had stopped paying or writing, moved eastward into a wing the visitors' itinerary never included. After 1907 the east ward was sealed, and the building has kept it. The chapel holds heat like a held breath; the service tunnel ends at a wall built from the wrong side; the orchard ground has been disturbed for a hundred and eighteen years and one family has spent a life not digging it. The building's reputation is two-headed: photographed for calendars, avoided after dark, filmed by teenagers for views, and lit at dusk, window by window, floor by floor, every night the sky goes down. For Julian it is a body he died in, a tomb he tends, and a library he lives in; for Maren it is the patient she was hired to heal, and becomes the colleague she must stop healing and start honouring; for the island it is the relative nobody discusses at holidays; for the reader it is the gothic promise kept, a building with a heartbeat. Every scene must use the building's textures, temperatures, and above all its light, and the reader must learn to read the temperature gradient the way Maren does: cold where the house is hiding something, warm where it is telling the truth.
+
+CRITICAL: THE POWER IMBALANCE IS ONTOLOGICAL BEFORE IT IS ROMANTIC, AND BOTH WEAPONS ARE NAMED. He can touch her only in storms; she can end him with a certificate. He holds total knowledge of the building, its bones, its flues, its fake walls, its buried things, and a century of learned helplessness; she holds the contract, the instruments, the standing, and the paper trail, and the power to make him real enough to lose. Each holds a weapon that could end the other, and the plot's ethic is that nothing in their relationship is taken without asking, information included: he teaches her the rules and lets her decide what to do with them; she gives him the choice of what may be recorded, and keeps her word to the letter. When she discovers his omission about the freedom-and-loss arithmetic, her fury is not that he lied but that he made her choice for her, and the book stages the reconciliation as a renegotiation of terms, storm-taped, witnessed, and signed in the only register they share: the memorial's design brief, co-authored. The novel governs the imbalance with its consent ethic all the way through, and its intimacy is chaste by physics and molten by attention, and the book holds the line that the yearning is the heat.
+
+CRITICAL: THE SURVEYORS ARE THE SPECIMENS. The mystery unfolds in Maren's native medium, the building itself, measured, photographed, and reconciled against paper, and the plot braids her forensics with his: she reads mortar shadows, hearth soot, and the story a patched wall tells; he reads the house from inside, a century of maintenance no one paid for, and knows where every body of the building's secret is kept. The woman sent to renovate the house and the man the house killed are the only two readers alive who can reconcile it, and every layer they open is also a layer of their own transformation: her contract converts from a rescue of the firm into testimony, his haunting converts from a sentence into evidence given up freely. She is not a neutral party: her childhood dream is the east ward's corridor, her insomnia is the house's oldest symptom, and the dream's bell is the bell he carried, planted in her before she was born into any knowledge of the place, and the novel must never explain the dream, only honour it. The novel must never rescue its leads into passivity: every disclosure is paid for with skill learned on the page, every document that matters is one the reader has already seen Maren reconcile, and every step of the investigation costs something nobody can buy back, measured in degrees of warmth.
+
+CRITICAL: THE ENDING IS A BITTERSWEET HEA WITH A WITNESS REGIME, AND THE MEMORIAL IS THE POINT. The ending settles all accounts the way a county does: fact by fact, name by name, on the record. The mystery resolves in evidence: Odile's sworn list, Hollis's family letter, Toby's timestamped photographs, Priya's thermal series, the archaeologist's report, and the survey data, all documents the reader has already met, entered against a countersuit. The uncanny resolves in the open: three storm nights of Julian's testimony played into the minute-book, and the county, for the first time since 1907, writes the eleven into the official world. The romance resolves in a memorial that is also a wedding in every way but the vows: the chapel restored, the candles brought down from the harbour steps for the first time in a century, the bell rung eleven times, a dance to a waltz from a restored gramophone, and a community pretending its eyes are dry about the weather. The personal resolution is exact: the east ward preserved and named, the orchard a grove, the register corrected, the hotel opened with a museum in its ribs, Odile's historical society holding the keys to the story, Hollis's family letter exhibited, and Maren's final design, the first work she has ever done that is not about her competence but about someone else's existence, standing where the institution's silence stood. The book honours the arithmetic instead of cheating it: the truth told completely frees Julian, and freeing him means the chapel is empty by the last chapter, and the grief lands because the accounting was real, and the hope does not feel like a refund. There is NO sequel hook: the story is DONE, the epilogue's green-eyed consultant is a lit fuse and never a doorway, and the last page of the epilogue lands on a waltz nobody taught him, unexplained.
+
+═══════════════════════════════════════════════════════════════
+SECTION 2: BOOK LENGTH & STRUCTURE
+═══════════════════════════════════════════════════════════════
+
+TARGET TOTAL LENGTH: 200,000 words minimum.
+
+MANDATORY STRUCTURE IN THIS EXACT ORDER:
+
+1. Title Page (with your original generated title)
+2. Copyright Page
+3. Blank Page
+4. Dedication Page
+5. Epigraph Page (use TWO fictional epigraphs that together are the novel in miniature: first, a passage from the 1908 incident memorandum of Dr. Silas Marlowe, in the exact idiom of benevolent administration, an account of a chimney accident with no casualties, a ward consolidated, a register purged of an error for the patients' dignity, the kindness doing the erasing in its native dialect, signed with a physician's flourished initials; second, a passage from a present-day county heritage commission's findings, in the procedural legalese of a bureaucracy a century behind the building it is judging, finding that the question of what a preserved building owes its unrecorded dead is ripe for adjudication, and that memory is infrastructure. Invent both texts in full voice. The juxtaposition is the thesis: the kindness that erased and the law that arrived too late and then, at last, on time, printed one above the other)
+6. Table of Contents
+7. Introduction
+8. Prologue
+9. 50 Chapters, divided into SIX PARTS (each part carries its phase name and opens with a dated document epigraph drawn from the novel's world: a page of the Meridian Heritage Group's condition survey for the Marlowe Sanatorium, charting thermal anomaly, east ward, unexplained, with a margin note in a hand that is not the surveyor's; a page of the 1907 incident memorandum in Silas Marlowe's two inks, the second ink entering eleven transfers where deaths should stand; a page of the island historical society's candle list, eleven names in Odile Crane's hand, said like a rosary; a page of the Finn family letter of 1907, locked per standing policy, God forgive the policy; a page of Toby Wrenn's Waking House phenomena blog, its timestamped photographs of lit windows with a moderator's note appended; and the county minute-book page where eleven deaths are entered into the official world, with the hearing's exhibits listed. These six document epigraphs are part of the fair-play apparatus and must each be quoted or echoed inside their part's chapters)
+10. Epilogue
+11. Blank Page
+
+The novel must feel like a professionally published bestselling standalone book from a major publisher, the kind of literary-leaning gothic romance that wins book clubs, sustains long-form discussion threads about whether you would tell the truth if telling it ended him, gets storyboarded for a limited series with a documentary texture of survey footage and archive inserts and one storm-lit chapel, and makes its readers cry about a building, and glad of it.
+
+CHAPTER REQUIREMENTS:
+- Each chapter MUST have a chapter title or chapter number
+- Each chapter MUST be substantial and immersive (minimum 4,000-5,000 words each to sustain the 200,000-word epic scope across 50 chapters)
+- Each chapter MUST advance the romance, the survey, the five-layer mystery, the restoration calendar, or a character's internal arc
+- Each chapter MUST end with strong momentum: a thermal reading that will not reconcile, a blueprint that denies a room Maren is standing in, a name recovered, a photograph that timestamps a window nobody wired, a document that reads differently on the second pass, a warmth in a room where warmth is a confession, a question nobody in a century has been permitted to ask
+- NO chapter may be filler or padding
+- NO chapter may recycle the same type of encounter or emotional beat
+- The slow burn means the reader is kept in a state of sustained tension, romantic and investigative simultaneously, for the majority of the book. Key charged moments include: the first interview in the chapel with the headlamp dead and the voice from the organ's absence, the false reading returned corrected with an annotation in a century's handwriting, the east ward found behind the wall built from the wrong side, the treaty signed over a survey protocol, the dream hinge and the corridor made walkable, the annotated drawings and the manual he learned for her, the lamp rebuilt in period-correct brass, the two degrees of warmth unremarked, the describe-touch paragraph, Priya's correlation data and the one variable she cannot instrument, Odile's candle list said like a rosary, the founder's two inks, Toby's viral post and the hundred ghost hunters, the orchard opening on the spring tide and the night-bell laid on top like a signature, the arithmetic spoken aloud in the chapel, the maths done on her own drawings, the manufactured documentation irregularities and the escort off site, the chapel going cold, the county hearing with its exhibits, the three storm tapes played into the minute-book, Pritchett's conversion over the memorial's ROI, the memorial and the bell rung eleven times, the dance in front of the whole island, the dawn confession and the kiss, the register corrected, and the chapel at first light, just a room. Roughly 26-28 key charged scenes across 200,000 words.
+- Chapters alternate POV: Maren, Julian, Maren, Julian (roughly 55/45 Maren-to-Julian ratio). Maren's chapters carry the survey's interior weather, the firm's payroll clock, the social map of the island, and the architectural forensics; Julian's chapters carry the building's memory, the century's felt weight, the arithmetic of a dead man deciding to be witnessed, and the fury he has kept polite since 1907. Julian's narration is physically bound to the building's footprint: when Maren takes the ferry, his chapters stay with the house, and the ache of her absence is the novel's most reliable instrument reading.
+
+PROLOGUE:
+- The prologue consists of TWO dated fragments, clearly outside both narrators' frames, set a hundred and seventeen years apart, both rendered as pure documentary record with no interiority and no named point of view:
+- Fragment one, the last week of September 1907: the east ward's last ordinary night. The standing policy, initialed, the ward locked for the night; the night bell returned to its hook by the patient-handyperson, his rounds logged in a careful hand; the chapel lamp trimmed; eleven suppers entered in the housekeeping book; and in the founder's study, the incident memorandum already drafted in two inks against a contingency the building has not yet had, eleven transfers, no deaths, the register to be corrected for the patients' dignity. The fragment ends BEFORE the fire takes the ward. The reader must finish it knowing only that a policy was signed, a bell hung, a memorandum drafted in advance of its own event, and that somebody had already decided what the paperwork would say, and must NOT yet know what burns, or who stays
+- Fragment two, the week before Chapter One, present day: the island's October candles being crated up from the harbour cellar by hands that have done it for decades; Toby Wrenn's latest blog post, Waking House phenomena, October edition, with its timestamped photographs of lit windows and its comment section already trending; the Meridian Heritage Group's condition survey arriving on the ferry with a deadline instead of a dedication page; a demolition schedule flagging the laundry wall for week one; and in Boston, a payroll run eighteen days out at a firm called Voss and Voss, and a woman who has not slept properly since childhood dreaming, again, of a corridor, a locked door, and a bell she cannot reach. The fragment ends BEFORE the ferry docks. The symmetry must land: two filings, 1907's memorandum and the present's condition survey, both processed by the same beautiful grammar of record, and the building remembering everything
+- The prologue plants the standing policy, the night bell, the two inks, the pre-drafted memorandum, the candles, the lit windows, the laundry wall, the payroll clock, and the dream in plain sight
+
+EPILOGUE:
+- Three years after the memorial. Two pages and a lit fuse. The Gullwrack House in its second season: the east ward's museum with its first guest book page bearing eleven names, the orchard grove grown knee-high, the lintel's eleven names worn smooth by fingertips, Odile's historical society running the story with Odile's successor already trained, Maren's practice restored and choosy, her father's hands steadier, Priya's survey rig retired to the museum with a brass plaque
+- A new preservation consultant joins the second-phase team: a quiet man with green eyes who stands very still, who reads the building the way one reads a face across a room, and who hums, exactly once, a waltz nobody taught him. The novel does not say the word reincarnation. It lets the reader say it
+- The last line of the novel lands on the humming, unexplained, and must be written with exact restraint: no wink, no confirmation, no door opened, one waltz, recognised
+- NO sequel hooks, NO "the story continues" suggestions. The story is DONE. The consultant is re-read fuel, not a doorway
+
+There MUST be clear page breaks after:
+- Prologue
+- Every part opening (with its document epigraph)
+- Every chapter
+- Epilogue
+- Front matter sections
+
+═══════════════════════════════════════════════════════════════
+SECTION 3: FORMATTING RULES
+═══════════════════════════════════════════════════════════════
+
+PAGE SIZE: 6 x 9 inches
+
+MARGINS:
+- Top: 0.75 inches
+- Bottom: 0.75 inches
+- Inside: 1 inch
+- Outside: 0.30 inches
+- Mirrored margins enabled
+
+FONT: Garamond ONLY for the entire manuscript
+
+BODY TEXT: 12pt
+
+CHAPTER HEADINGS: 18pt, Bold, Centered
+
+SUBHEADINGS: 14pt, Bold Italic, Left-aligned
+
+These formatting rules are not suggestions. They are mandatory. Treat them as publisher specifications.
+
+═══════════════════════════════════════════════════════════════
+SECTION 4: STRICT WRITING RULES
+═══════════════════════════════════════════════════════════════
+
+The generated novel MUST NOT feel AI-written. This is the single most important quality requirement.
+
+AVOID ALL OF THE FOLLOWING WITHOUT EXCEPTION:
+
+- Repetitive sentence structures (vary rhythm, length, and construction constantly; Maren's narration should move in survey rhythm, itemised, measured, and dry, that keeps being interrupted by what the instruments cannot hold, while Julian's should move in century rhythm, patient, composed, and self-auditing, that keeps returning to the door he could not open)
+- Repetitive emotional beats (each phase must escalate the trust, the forensics, the mystery, and the calendar; no two scenes should land the same emotional note; the slow burn means each new increment of intimacy must feel like a breakthrough, not a repeat)
+- Over-explaining (trust the reader to track the five mystery layers, the haunting's rules, the two directions of the power imbalance, and the romance progression; the dread and the tenderness work because the reader assembles them, not because you explain them; above all, NEVER explain the arithmetic before the novel does, and NEVER explain the epilogue's humming at all)
+- Generic descriptions (every element of Gullwrack, the Marlowe, the chapel, and the island winter must be described with specific, vivid, original language rooted in sensory detail; the sanatorium must feel like a specific building with specific light, not a generic "creepy asylum": salt air and blown lamps, shingle and granite, the smell of old plaster and new brass, the chapel's held breath of heat, the east ward's wrong-sided wall, the temperature gradient the reader learns to read like the heroine, the dusk schedule of windows lighting one by one, the piano chord no one owns, the harbour candles, the ferry's wake, thermal cameras breathing their little batteries warm. The atmosphere lives in the textures: laser measures and moisture meters, mortar shadows and hearth soot, the survey van's bad coffee, the gramophone's waltz, a hairpin on a sill)
+- Robotic dialogue (Edmund Marlowe's reasonable scholarship must chill rather than bore; Pritchett's spreadsheet courtesy must charm the reader before it prices them; Priya's warmth must carry the site's actual conscience; Toby's enthusiasm must detonate and then save the case; Odile's sea-glass sharpness must reframe the mystery in one breath; Hollis's inherited guilt must be rented silence made audible; Garrick's pride must beg her to sign off the building and be wrong with love; Julian's Edwardian formality must fray into wonder and his dryness must protect him until it cannot; Maren's dryness must protect her until it cannot)
+- Flat pacing (alternate between survey scenes and testimony scenes, chapel scenes and archive scenes, the island's warm kitchens and the building's cold wards, quiet scenes of taught measurement and the detonations, the orchard opened and the hearing convened; the pacing should mirror the building itself: long banks of false calm where the house is hiding something warm, and release exactly where the truth gets entered into the record)
+- Filler scenes (every scene must earn its place by advancing the romance, the survey, the five-layer mystery, the restoration calendar, or a character's internal arc)
+- Empty introspection (Maren's thoughts must reveal the war between empiricism and standing, the seduction of fixable problems, the guilt of a woman whose firm's survival is mortgaged into the plot, and the relocation of her worth from deliverables to witness, sentence by sentence; Julian's thoughts must reveal the discipline of patience as a craft, the honest ledger of a century's accrued fury, the terror of hope arriving after a hundred years of weather, and the decision, scene by scene, to be witnessed rather than to remain safe, which is the same as remaining vague)
+- Recycled phrases (never use the same descriptor, metaphor, or sentence pattern twice in adjacent chapters)
+- Overuse of character names (use pronouns, titles, and contextual references naturally)
+- Predictable chapter endings (every chapter should end with a hook: a reading that will not reconcile, a name where the register has none, a window lit that nobody wired, a document that reads differently on the second pass, a warmth in a cold room, a question nobody in a century has been permitted to ask)
+- Cliche metaphors (invent fresh comparisons rooted in the story's world: a chapel that is a held breath, a ward that is a held tongue, a building with a bedside manner, testimony as survey data, grief as a maintenance backlog, memory as infrastructure, a register as a locked door, kindness as the lock's brand, witness as heat, a haunting as a defect report that files itself, restoration as an apology with a budget)
+- Mechanical transitions (move between scenes and perspectives organically through action, dialogue, and shifts in physical and emotional state)
+- Thematic hand-holding (do not tell the reader what to think about memory, records, grief, or cover-ups; let the story create the feeling; treat the eleven, the committed, and the island's dead with respect in every sentence; never let the narrative mock a patient's diagnosis or mistake the era's cruelty for quaintness; never render Julian as a prop, his attention is the novel's most expensive attention and must be written with dignity)
+- Register bleed (the novel holds several dialects in one building: the heritage group's brochure warmth, the county's procedural legalese, the survey's reconciling grammar, the architect's idiom of load paths and moisture and mortar, the historian's footnote voice, the island's oral cadence, Toby's blog register, and Julian's Edwardian speech, which is its own dialect the novel teaches the reader to hear; the registers must never blur, and the comedy and the ache of the book live partly in the seams)
+
+THE WRITING MUST FEEL:
+
+- Instrumented (the prose should carry the specificity of a working survey: dates, readings, timestamps, figures, temperatures, plate numbers; motifs planted in cold resolve; the reader's sense of the building's temperature gradient must be trained page by page so that the memorial's warmth lands with the force of a verdict)
+- Emotionally immersive (the reader must FEEL the vertigo of addressing a room and being answered, the discipline of a man who answers truthfully knowing what it costs, the terror of a love that is also a countdown, and the scandal of two people building something dangerous and tender inside a building scheduled to be sealed around them)
+- Intimately atmospheric (the Marlowe must feel like a living instrument: the dusk schedule of windows, the chapel's held heat, the flues and fake walls, the orchard's disturbed ground, the dream corridor now walkable on site; the house must be audible on every page whether or not anyone names it)
+- Compassionate and dry-eyed (the tone is literate, compassionate, and sardonic: never sentimental about the eleven, never glib about the era's medicine, never soft about the island's complicity; the humour is Maren's dry reconciling kind and Toby's blog kind, rationed and therefore trebled; the tenderness is unglamorous and exact)
+- Tender (the best scenes in this novel are the quietest: a room warmed two degrees on purpose, an annotation in a century's handwriting, a lamp rebuilt in period-correct brass, a question asked correctly for the first time in a hundred years, a bell rung eleven times)
+- Tension-rich (the romantic and investigative tension must build relentlessly; the reader should lean into every reading, every archival find, every scheduled demolition, every day coming off the eighteen months)
+- Deeply character-driven (every scene, whether at the chapel, the east ward, the county records office, or the hearing room, must filter through the emotional experience of the POV character)
+
+DIALOGUE REQUIREMENTS:
+- Each character MUST have a unique voice that is distinguishable WITHOUT dialogue tags
+
+- Maren Voss: 29, principal restoration architect of Voss and Voss, engaged by the Meridian Heritage Group to convert the Marlowe Sanatorium into the Gullwrack House hotel before the 2026 season. Her speech is dry, plugged-in, and over-caffeinated: she answers questions with measurements, reads rooms the way she reads buildings, for the load that does not add up, and does not soften when frightened, she gets MORE exact. She apologises to buildings, and eventually means it. Her builder's gallows humour is the shield the reader learns to see through, and the reader should always hear the difference between Maren surveying and Maren standing in the wreck of her own certainty. When moved she goes quieter, and the reader should hear the dream's bell rise under the dryness. She asks the question nobody has asked the house in a century and then builds on the answer
+
+- Julian Ashe: 27 forever, committed at 22 in 1899, dead since the fire of 1907, patient, handyperson, night-bell keeper, and the sanatorium's only permanent resident. His speech is Edwardian courtesy polished by a century of solitude into a discipline: formal, wry, and precise, a man who has read every book left in the building and deploys a gentleman's grammar as armour against despair. He flirts like a man from another century because he is one, and the effect, dry formality fraying into wonder, is devastating. He is politely furious at being treated as atmosphere, and the fury surfaces as wit: he reviews a century of island fashion in one breath and corrects her mortar analysis in the next. He answers every question truthfully except the ones about 1907, where he lies by omission, because the truth is that being fully witnessed will release him, and he cannot bear to make her choice for her. When moved he goes simpler and older, and the plainness of his late-book speech, before the hearing and at the dawn confession, must land as the discipline's purpose fulfilled
+
+- Dr. Edmund Marlowe: 48, medical historian, great-grandnephew of the founder, author of A Light on the Water, retained as historical consultant. His speech is sincere scholarship polished by family pride: he quotes the founder's papers the way other men quote scripture, speaks of preserving legacy with unfeeling conviction, and loves a legend audibly, which is the horror. He never rages; he footnotes, to the very last page, offering sources, corrections, and the warm authority of the archive, priced against Maren's credibility. He is never cruel and never stupid, every scene must give him a point, and he is most frightening when he is being helpful. His takedown attempt at the county records office must be conducted with perfect civility, and his countersuit is the book's legal vertigo. The novel must give his sincerity its full weight before it is ruled on, because the book's hardest position is that he believes he is protecting the patients' dignity, and his belief does not make the paper true
+
+- Priya Nair: 34, structural engineer, hired for the seaward stabilisation, complainant-in-chief about island weather. Her speech is warmth with instruments in it: she names what Maren will not, clocks the cold spots on the thermal camera first and says so over bad coffee, and builds the survey rig that proves the east ward's temperature is not a flue. She is the story's warmest skeptic turned its first confessor: her line, You're not scared of the ghost, you're scared you like him, is delivered once, gently, and is never repeated because it never needs to be. Her courage is calibration: she keeps the data honest when the data starts saying things nobody wants filed, and her fear, once, when the correlation lands, must be audible exactly once, when it matters most
+
+- Odile Crane: 90, keeper of the island historical society and its candle ritual, sharp as sea glass. Her speech is oral history distilled: short sentences, names said like a rosary, and the specific authority of a woman who has kept a record the county never bothered to keep. She gates, then admits, then adopts: her arc from gatekeeper to grand-mere figure must be audible in the shortening distance between her sentences. Her testimony, recorded and sworn, is the ghost of the title made visible, and her line, We never lit the candles for the house, dear. We lit them for the ones it kept, reframes the mystery in one breath. She is never quaint, and the novel must let her be the island's sharpest institutional memory and its tenderest
+
+- Hollis Finn: 45, island contractor, great-grandson of the night attendant who locked the east ward in 1907 per orders. His speech is practical, spare, and rented: a man who has spent a life not digging, and whose silences have floor plans. He is foreman, then suspect, then the book's study in inherited guilt, and the reader must feel the weight of the letter his family kept, locked per standing policy, God forgive the policy, before he produces it. His confession is the book's quietest detonation, and his hands, like his great-grandfather's, must be rendered as hands that did what the policy said
+
+- Garrick Voss: 61, Maren's father, half of Voss and Voss, hands that shake now, pride that does not. His speech is builder's pragmatism wrapped round a mortgage: he jokes about the island's weather and cannot look at the payroll calendar, and he begs her to sign off the building and let the past be past, and the book lets him be wrong with love. His summer on the island in the seventies, and what he knew of the Ashe family name, is his own quiet archive, and his choice to finally hand it over must be staged as a man paying a debt he did not know he owed
+
+- Ansel Pritchett: 55, Meridian Heritage's development director, a man who says story when he means asset and heritage when he means premium. His speech is the hospitality-industrial complex in a blazer: occupancy curves, brand adjacency, visitor-appropriate. He is not evil, he is a spreadsheet with a yacht, and his threatened breach notice is the sword over the third act. His conversion must be genuine and must be staged as arithmetic: the memorial's return on investment, the museum's draw, the rededication's brand value, and the moment the numbers turn, he turns, and the novel lets the reader be relieved by the thing that should appall them, which is the point
+
+- Tobias Wrenn: 31, Meridian's hospitality director, genuinely enchanted by the building, keeper of a blog of Waking House phenomena, holder of a drone licence. His speech is content strategy with a soul: he narrates the building like a nature documentary and apologises like a man who has just learned what timestamps are for. His publicity instinct nearly ruins the investigation, one viral post brings a hundred ghost hunters to Gullwrack in the book's worst hour, and his dated photographs of the lit windows become timestamped evidence no one can dismiss. His arc from liability to witness must be audible in the maturing of his register
+
+- The Eleven: the east ward's dead, six women and five men whose names the register never carried, from nineteen-year-old Ada Sewell to sixty-three-year-old Constance Brace. They are less characters than a weather system: cold spots, an accumulation of small mercy objects, a hairpin on a sill. The book treats them with the gravity of a mass grave and the tenderness of a congregation, and the memorial chapters give each a name, a trade, and a sentence of life, restoring in prose what the paperwork denied. They never speak, and their silence is the novel's loudest fact
+
+PROSE STYLE GUIDANCE:
+This novel occupies the space where literary gothic and commercial romance converge. The prose must serve both modes: it must have the precision, literacy, and atmosphere of the best restoration fiction and archival mysteries while maintaining the warmth, readability, and romantic satisfaction that readers of slow-burn paranormal romance expect. Maren's chapters should read like a working survey that keeps catching its own heartbeat: itemised, exact, and interrupted by what the instruments cannot hold. Julian's chapters should read like a memoir composed as maintenance records: a century filed as attendance, and the house's whole weather system described by the only man who ever worked it for free. The haunting scenes, when they come, must be written with the same precision as the survey scenes: the reader should feel the boundary thin on storm nights and understand exactly why a century of patience could be mistaken for peace. The intimacy of this novel is taught attention, and the prose must make being witnessed accurately feel like the most physical act in the world.
+
+PROSE BALANCE:
+- Dialogue (the primary engine of the chapel, the survey hut, the records office, and the harbour kitchens; conversations on Gullwrack operate under rules of island privacy, institutional hierarchy, and the two-tier grammar of mainland and local, and the reader must always hear what is not being entered into the record)
+- Documentary texture (the novel's condition surveys, maintenance logs, registers, letters, blog posts, and hearing exhibits must be rendered with the specificity of real paperwork; the founder's paperwork must be genuinely beautiful in its mercy, which is the horror; the reader should be able to read a condition survey alongside Maren and feel where the two degrees begin)
+- Technical description (the novel's scenes of survey, stabilisation, and haunting contact must be rendered with a specialist's specificity: mortar shadows and moisture paths, thermal cameras and their little batteries, laser measures and their error bars, the difference between what the blueprint says and what the wall does; the reader should understand the building the way Maren comes to, which is the way Julian always meant)
+- Sensory description (weather rendered with the same care as the characters' inner lives: salt air and blown lamps, the chapel's held breath of heat, the east ward's sealed cold, the dusk schedule of windows, the smell of lamp oil and old paper, the gramophone's waltz, the harbour candles, snowfall that closes the ferry)
+- Internal thoughts (Maren's war for the right to stop fixing and start witnessing; Julian's re-filing of a century's patience into testimony and the terror that being known is the same as leaving)
+- Tension management (alternate between scenes of institutional menace and scenes of conspiratorial tenderness, evidence and lamplight, the hotel's calendar and the house's, so that the reader breathes only when the lovers manage to)
+
+═══════════════════════════════════════════════════════════════
+SECTION 5: THE WORLD — GULLWRACK ISLAND, THE MARLOWE SANATORIUM, AND THE PHYSICS OF WITNESS
+═══════════════════════════════════════════════════════════════
+
+This novel takes place in the present day, in the autumn, winter, and early spring that contain Maren Voss's eighteen-month restoration contract and everything its surveys detonate, primarily on GULLWRACK ISLAND, twelve miles off the coast of Maine, and inside and around THE MARLOWE SANATORIUM at its grey northern tip. The era is rendered exactly within its own rules: heritage tourism is the island's second economy and its first argument; a county archive holds a century of gently flexible records; the law governing what a preserved building owes its dead is being written in real time; and the novel's contemporary texture, drones, blogs, thermal cameras, viral posts, heritage grants, ESG language, is extrapolated with restraint: one core impossibility, a man the house kept, plus the ordinary venality of institutions.
+
+PRIMARY SETTING:
+
+THE MARLOWE SANATORIUM (the novel's furnace, its beautiful crime scene, and its third protagonist):
+- Founded 1893 by Dr. Silas Marlowe, a Boston physician with a fortune from his wife's whaling family and a theory: that nervous illness was a taxation of the spirit that could be repaid in rest, sea air, useful work, and beauty. The original house is a granite-and-shingle crescent facing the Atlantic, all sleeping porches and daylight; by 1910 it has grown wings, a chapel, a hydrotherapy wing, a working farm, and a population of two hundred
+- The architecture is the book's central metaphor made walkable: the published floors are beautiful, democratic, and light-filled; the service floors are a maze; and between them sits the east ward of 1904, which appears on no plan Maren can find, as if the building itself had agreed to keep a secret
+- The regime was Marlowe's sincere, occasionally sinister benevolence: no restraints, long garden labour, concerts in the hall, a patient newspaper, and also a quiet classification system, transferred patients whose families had stopped paying or writing, moved eastward into a wing the visitors' itinerary never included
+- After the 1907 fire, which the record calls a chimney accident with no casualties, the east ward was sealed, the charity patients consolidated, and the founder retired to Boston a year later. The state closed the hospital in 1979; the county inherited a ruin it could neither afford nor confess; the building has been empty, unvandalised, and watched ever since
+- The chapel: the one room consecrated by use rather than rite, where the organ used to stand, where the heat holds like a held breath, and where a dead man has a voice. The chapel is the lovers' room, the novel's confessional, and the memorial's venue, and every intimacy in the book is staged here or shadowed by it
+- The east ward: sealed since 1907, behind a wall built from the wrong side, reachable by a service tunnel that ends at that wall. Inside: a sealed century, hairpins, boots, an accumulation of small mercy objects, and the ward's register shaped like an absence
+- The orchard: ground disturbed for a hundred and eighteen years, mowed around by one family's stubbornness, and holding, at depth, eleven sets of remains and a 1907 night-bell laid on top like a signature
+
+GULLWRACK ISLAND (the witness community):
+- A year-round community of three hundred fishing families, summer people, and one historical society with institutional memory; reachable by ferry and, in the book's worst week, not reachable at all
+- Island reputation is two-headed: the Waking House is a pride and a fear, photographed for calendars and avoided after dark, and the current generation of teenagers, of course, films its stairwells for views
+- The candle ritual: every October since the fire, candles on the harbour steps, a hundred and eighteen consecutive years, the longest-running unsanctioned memorial investigation in New England, kept by the historical society and understood by nobody entirely, until Odile explains it in one line
+- Society: heritage tourism economics versus island privacy, a county archive with gently flexible colonial instincts, a commission that would prefer the asylum to have been merely old, and a hotel group whose ESG language is a plot device
+
+THE CONVERSION PROJECT (the deadline machine):
+- The Meridian Heritage Group has bought the ruin on one condition: eighteen months to bring it back from the dead without killing what makes it worth saving, delivery before the 2026 season as the Gullwrack House hotel
+- The project's paperwork is the plot's clock: the condition survey, the demolition schedule, the payroll calendar eighteen days out, the morals-and-accuracy clause in Maren's contract, Pritchett's insistence that the hotel honour the building's story, the breach notice, and the state preservation office's slow honest machinery
+- The renovation itself is a character with its hands on the ghost: removing walls and re-cutting doors physically edits Julian's prison, sometimes gently, sometimes like an amputation, and the laundry wall's demolition makes him visible to a phone camera and the island's oldest secret trends, badly
+
+THE HAUNTING'S RULES (strict, legible, load-bearing; NEVER broken, NEVER waived):
+- THE FOOTPRINT: Julian is bound to the building's original footprint; the renovation's edits to that footprint are edits to his body's house; he cannot leave the island, cannot cross running water, and cannot stand on consecrated ground beyond the chapel's threshold, the chapel excepted because it is consecrated by use rather than rite
+- ABILITIES SCALE WITH WITNESS: cold, sound, and small motion by default, breath on glass, cold spots, a piano chord no one owns; solidity and voice in the chapel; the ability to move small objects in storms and to touch water; and true touch on storm nights, when the boundary thins. He is visible to the living only when the rules allow it, never by convenience
+- THE CENTRAL RULE: manifestation strength correlates not with emotion but with truthful witness; he is more real when his story is told accurately, in words, to people who record it, and measurably less when the lie is institutionally sealed. Truth is not a mood here. It is a medium. The correlation is discovered through Maren's surveys and confirmed by Priya's data, week over week, and the instruments do not lie, which is the book's joy and its catastrophe
+- THE ARITHMETIC: a binding releases when the truth is fully witnessed. Every survey that proves Julian more real is spending him. Freedom and departure are the same event, and the death certificate that corrects the record is also an eviction notice. The rule is planted in plain sight from the first chapter, hidden like a load-bearing wall, and it must never be stated outright until the orchard scene detonates it, and never once broken afterward
+- WHAT HE CANNOT DO: leave the footprint, touch at ordinary temperature, affect registers or paper, be photographed at will, lie about the house, or stay. The dead stay dead; the novel NEVER buys its ending with a resurrection, and the epilogue's green-eyed consultant is the book's one deliberate ambiguity, hummed, never explained
+- THE BUILDING'S SIDE OF THE PHYSICS: the waking, the windows that light at dusk one by one, floor by floor, is the house's half of the same rule; houses wake when their stories are told and sleepwalk when they are not; the finale's memorial service, the bell rung eleven times, is the building's alarm clock
+
+THE ONE UNCANNY BUDGET: gothic by definition, and the novel spends it deliberately: the dusk schedule of lit windows; the chapel's held heat; the piano chord no one owns; the smell of lamp oil and old paper in a sealed room; the two degrees of unrequested warmth; the hairpin on a sill; the dream corridor made walkable on site; and the book's single full uncanny sequence, THE TRENDING, the week the laundry wall comes down and the house goes public: a teenager's phone footage, Toby's blog lighting up, a hundred ghost hunters booked on the ferry, and the building's windows photographed at dusk by a hundred people who do not know what they are looking at. The uncanny is disciplined by its rules: every event traceable to the footprint, the water, the chapel, the storms, and the witness arithmetic, which is why the finale's register correction lands as survey rather than séance.
+
+SEASONAL ARC:
+- Autumn, the survey season opens: the ferry, the first walkthrough, the chapel interview in the first October storm, the false reading returned corrected, the first archival pulls, the east ward's outline emerging from blueprints that deny it
+- Early winter: the treaty over the survey protocol, the annotated drawings, the rebuilt lamp, the two degrees, the dream hinge, the first storm-night conversations, Priya's rig and the data that will not flue
+- Midwinter: the correlation lands, the describe-touch paragraph, Odile's testimony sworn and recorded, the founder's two inks, Edmund's counter-archive, Toby's viral post and the ghost hunters, the instrumented romance at its warmest and the deadline at its tightest
+- Late winter into spring: the spring tide, the storm-drain collapse, the orchard opened and the eleven found with the night-bell laid on top, the arithmetic spoken, the maths done on her drawings, the quarrel, the manufactured irregularities, the escort off site, the chapel going cold, the building asleep
+- The hearing: the county hearing room, of all ungothic places, the sworn list, the letter, the photographs, the thermal series, the archaeologist's report, the survey data, the storm tapes played into the minute-book, Pritchett's conversion, and the eleven entered into the official world
+- The following October: the anniversary storm, the memorial in the restored chapel, the candles brought down from the harbour steps for the first time in a century, the bell rung eleven times, the dance, the dawn confession, the register corrected, the hotel opened with a museum in its ribs; epilogue three years later
+
+═══════════════════════════════════════════════════════════════
+SECTION 6: CHARACTER BIBLE
+═══════════════════════════════════════════════════════════════
+
+PROTAGONIST / PRIMARY POV (approximately 55% of chapters):
+
+MAREN VOSS
+- Age: 29. Maren Voss, principal restoration architect of Voss and Voss (population: her father), engaged by the Meridian Heritage Group to convert the Marlowe Sanatorium into the Gullwrack House hotel before the 2026 season. The best restoration architect of her generation and the worst employee of hers: brilliant at listening to buildings, hopeless at listening to boardrooms. Her firm is one bad quarter from insolvency, her father has mortgaged his house to float the Gullwrack contract, and her insomnia has followed her from city to city like a well-behaved ghost of her own
+- Appearance: city-black workwear gone salt-stiff, a torch on a carabiner, laser measure holstered like a sidearm; eyes that read rooms the way her hands read drawings, for the load that does not add up; the restless stillness of a woman who has made work its own address and calls it a career
+- Wardrobe: Hard-wearing, deliberate, site-correct, one city coat she stops wearing halfway through the book; and a childhood dream, a corridor, a locked door, a bell she cannot reach, carried where no one can bill for it
+- Personality Traits:
+  1. Dry, plugged-in, over-caffeinated: a builder's gallows humour and an empiricist's stubbornness; she does not believe in ghosts, she believes in load paths, moisture, and evidence, which makes her the perfect foil for a haunting that behaves like a building defect, reproducibly
+  2. An expert in what the building hides, uniquely in the book's world: she reads buildings the way cryptographers read ciphers, mortar shadows, hearth soot, the story a patched wall tells; she documents everything, photographs everything, and is constitutionally incapable of letting an anomaly go; her superpower and her curse is that she cannot walk past an anomaly, and has never, in her life, done it
+  3. The quiet physical courage of the genuinely stubborn: island winters, blown lamps, a building that answers back, and she keeps walking; and an empathy, long buried under professional armour, that is real and ferocious once engaged: she apologises to buildings, and eventually means it
+  4. The flaws the plot must tax: work as avoidance. She took an island eighteen months from Boston because a city means seeing her ex, her mother's disappointment, and the tremor in her father's hands; she hides behind deliverables; and her flaw in the relationship is the mirror of Julian's: she tries to fix Julian like a defect, a problem with a solution she can bill, before she learns that some witnesses need accompaniment, not repair
+- Secrets: the firm is eighteen days from missing payroll at the book's opening, a fact she has hidden from her father; and she has been having the same dream since she was a child, a corridor, a locked door, a bell she cannot reach, which she has never told anyone, because dreams are not deliverables
+- Internal conflict: between the empiricist who must not believe and the woman who already does. Her professional credibility, a woman architect fighting for standing in heritage conservation, is exactly the collateral a ghost story would burn. Confirming Julian means risking the career that feeds her father; denying him means becoming, in her own vocabulary, a building that ignores where it hurts
+- External conflict: the opening date, the investor, and Edmund Marlowe, who arrives with charm, a family archive, and a mandate to make the past visitor-appropriate. Her contract has a morals-and-accuracy clause she will eventually weaponise; Edmund's countersuit is the book's legal vertigo; and the payroll clock ticks under all of it
+- Character arc: from architect-as-fixer to architect-as-witness. She begins measuring the house to master it and ends measuring it to remember it: her final design, the memorial orchard and the eleven names cut into the original granite lintel, is the first work she has ever done that is not about her competence but about someone else's existence. Her insomnia ends not when the mystery is solved but when the names are said aloud
+- Why readers will connect with her: because she is the reader who copes by doing. Her love story with Julian is also a love story with uncertainty itself, and every reader who has ever tried to think their way out of feeling will find their people in her. Her arc promises the book's quietest payoff: that precision and wonder are not opposites, and that the most rigorous person in the room is allowed to be the one who believes
+
+PROTAGONIST / SECONDARY POV (approximately 45% of chapters):
+
+JULIAN ASHE
+- Age: 27 forever, having died in 1907 at that age; committed at 22 in 1899 for melancholic fixation by a stepfather who wanted his inheritance and his silence in one signature. Role: the Waking House itself, patient, handyperson, night-bell keeper, and since the fire, the sanatorium's only permanent resident. He is not mad and never was; he is dead, and has been since the east ward burned behind a door that locked from the outside, per standing policy, while he tried to open it
+- Appearance: solidity is his weather and the chapel is his climate; to the living, most of the time, a cold spot with manners; in the chapel, a man in clothes a century out of fashion, bookish, upright, with the specific stillness of someone who has learned that sudden movement frightens the living; his warmth is measurable and his hands are not, except in storms
+- Wardrobe: The clothes he died in, kept immaculate because maintenance is the only ownership left to him; a century of reading glasses he no longer needs; and the night bell, carried in memory on the round the house still walks every dusk
+- Personality Traits:
+  1. Bookish, wry, and kind in the specific way of people who have suffered long enough to make patience a craft: a century of solitude has not embittered him so much as polished him; he has read every book left in the building, memorised every crack, and kept a gentleman's Edwardian courtesy as a discipline against despair
+  2. The best reader of the building alive, in both senses: total knowledge of its bones, its flues, its fake walls, its buried things; he can tell her where the house hurts and why, and the one thing he cannot tell her is what telling it will cost
+  3. The discipline of truthful answers: he answers every question accurately except the ones about 1907, where his omissions are the novel's cruellest and most human secrecy; he flirts like a man from another century because he is one, and the effect, dry formality fraying into wonder, is devastating; and he has had nothing but time to learn how to listen, which is the century's one true superpower
+  4. The flaws the plot must tax: a century of learned helplessness. He has accepted the terms of his haunting, visible only in the chapel, unheard by the living, powerless to affect the registers, and Maren's arrival forces on him the terrible risk of hope; and when hope arrives he does something monstrously, unforgivably, humanly understandable with it: he begins, quietly, to slow the paperwork, because each completed layer of witness is a layer of goodbye
+- Secrets: he knows where the eleven are. He has carried the knowledge since 1907, alone, unable to testify, watching the cover-up calcify into island folklore. He knows the rule he has never been able to test fully: a binding weakens as the truth is truly witnessed, and strengthens when the lie is institutionally sealed. And he knows what the rule means, the arithmetic, witness enough and the binding releases, and he has hidden it from her, protecting her from the truth that freeing him may mean losing him
+- Internal conflict: the deepest cut in the book: Julian wants to be known, and being truly known, his remains found, his death witnessed, the register corrected, is exactly the act that will end him. He falls in love knowing that the love's completion is his own dismissal from the world, and he hides the arithmetic from her until he cannot
+- External conflict: time and title. The hotel group's opening deadline, and Dr. Edmund Marlowe, whose curated legend writes Julian out of the building a second time, and whose access to the county archive lets him erase paper as fast as Maren can find it
+- Character arc: from witness-in-exile to witness-in-record. He begins the book as atmosphere with excellent manners and ends as a named man, his death entered in the ledgers of the living, his choice, at the end, being not whether to stay but whether to trust the woman he loves to keep his story after he is gone. His final act is to give her the truth unconditionally, without the bargain his fear wanted
+- Why readers will fall in love with him: because he loves the way only someone with infinite time and zero entitlement can: he learns her laser measure's manual so he can annotate her drawings, he warms the chapel by two degrees when she is cold, he leaves the ghost signs she needs and hides the ones that would frighten her. He is the fantasy of being chosen carefully, and the ache is that he can never hold her hand at ordinary temperature
+
+THE ENSEMBLE (the supporting cast is engineered for the full arc of a long novel: a menacing-or-sincere authority figure, a confidant inside the walls, a keeper of the oral record, an heir of the lock, a rival with a filing system, the deadline made flesh, an ally with a drone, and a congregation of the unnamed. Each entry notes relationship, role, contribution to the romance, and conflict):
+
+PRIYA NAIR (F, 34): Structural engineer, hired for the seaward stabilisation, complainant-in-chief about island weather. Relationship: Maren's site-side other half and the story's warmest skeptic. Role: she sees the cold spots on the thermal camera before Maren admits to them, and she builds the survey rig that proves the east ward's temperature is not a flue, the instrumented spine of the case. Contribution to the romance: she is the first to say, over bad coffee, You're not scared of the ghost, you're scared you like him, and her data is what turns the romance into physics, the correlation between Maren's presence and Julian's manifestation climbing week over week, which makes her the first person in the book to know what the love story costs. Conflict: a professional whose rig keeps producing results no journal would print, and whose friendship with Maren must survive Maren's season of hiding the arithmetic
+
+GARRICK VOSS (M, 61): Maren's father, half of Voss and Voss, hands that shake now, pride that does not. Relationship: business partner, protector, secret-keeper of a kind, he knew the Ashe family name from his own summer on the island in the seventies. Role: the stakes made flesh; his mortgage is the ticking clock under Maren's ethics. Contribution to the romance: his pride is the thing Maren spends the book protecting, and the book's mid-novel gut-check is his request that she sign off the building and let the past be past, which he delivers with love, and the book lets him be wrong with love. Conflict: a man whose firm his daughter is rescuing and whose island summer he never fully confessed, and whose hands shake in the same scenes where the building's warmth steadies them
+
+ODILE CRANE (F, 90): Keeper of the island historical society and its candle ritual, sharp as sea glass. Relationship: from gatekeeper to grand-mere figure. Role: she holds the oral history the county archive lacks, the names the register omits, and the reason for the October candles; she has been waiting, with a list of eleven names, for someone with a reason to come up the hill. Contribution to the romance: her testimony, recorded and sworn, is the ghost of the title made visible, and her line, We never lit the candles for the house, dear. We lit them for the ones it kept, reframes the mystery in one breath. Conflict: a century of institutional silence versus one woman's rosary of names, and her awareness that handing the list over hands the island's oldest wound to strangers
+
+HOLLIS FINN (M, 45): Island contractor, great-grandson of the night attendant who locked the east ward in 1907 per orders. Relationship: foreman, then suspect, then the book's study in inherited guilt. Role: he has known about the orchard ground disturbance since childhood and has spent a life not digging; his mowing pattern is a map of everything the novel proves. Contribution to the romance: his confession and his family's 1907 letter, locked per standing policy, God forgive the policy, provide the living corroboration the truth needs to stand in daylight. Conflict: the letter is his inheritance and his indictment, kept in a family for a hundred and eighteen years, and producing it costs him the family name's whole quiet bargain with the island
+
+DR. EDMUND MARLOWE (M, 48): Medical historian, great-grandnephew of the founder, author of the fond and flexible family chronicle A Light on the Water, retained as historical consultant. Relationship: antagonist. Role: he arrives as consultant to curate the sanatorium's story and proceeds to launder it, his weapon is the archive and his alibi is scholarship; he is the book's argument that cover-ups are usually maintained by respectable men with filing systems, not villains with shovels. Contribution to the romance: his erasures are the counter-clock that makes every survey urgent, and his countersuit is the legal vertigo that keeps the leads' alliance honest. Conflict: his takedown attempt at the county records office is the novel's courtroom-by-other-means, and every scene he is in must give him a point, because the moment he becomes a cartoon, the novel fails
+
+ANSEL PRITCHETT (M, 55): Meridian Heritage's development director, a man who says story when he means asset and heritage when he means premium. Relationship: deadline incarnate. Role: he is not evil, he is a spreadsheet with a yacht, and his threatened breach notice is the sword over the third act. Contribution to the romance: unknowingly, his insistence that the hotel honour the building's story hands Maren the contractual clause she uses to delay the opening for the memorial, and his conversion, once the memorial's ROI is on his desk, switches the hotel group's side on the record. Conflict: the opening date versus the truth, priced quarterly, and the book's point that the system's conscience arrived via a spreadsheet is meant to be funny and then not
+
+TOBIAS WRENN (M, 31): Meridian's hospitality director, genuinely enchanted by the building, keeper of a blog of Waking House phenomena, holder of a drone licence. Relationship: ally of convenience, comic relief with a drone licence. Role: his publicity instinct nearly ruins the investigation, one viral post brings a hundred ghost hunters to Gullwrack in the book's worst hour, and eventually saves it: his dated photographs of the lit windows become timestamped evidence no one can dismiss. Contribution to the romance: his timestamps make the impossible documentable, and his reverence for the house is the hospitality industry's one sincere note. Conflict: his need to share versus Maren's need for silence, and the reckoning after the viral post, when he learns what timestamps cost
+
+THE ELEVEN: The east ward's dead, six women and five men whose names the register never carried, from nineteen-year-old chambermaid-adjacent patient Ada Sewell to sixty-three-year-old retired lighthouse keeper's widow Constance Brace. Relationship: the novel's congregation, and the reason for every candle. Role: they are less characters than a weather system: cold spots, an accumulation of small mercy objects, a hairpin on a sill; the book treats them with the gravity of a mass grave and the tenderness of a congregation. Contribution to the romance: the memorial chapters give each a name, a trade, and a sentence of life, restoring in prose what the paperwork denied, and their presence is what makes Julian's century legible: he is what the eleven would have become, given a hundred more years of nobody asking. Conflict: the register that never carried them, and the county that preferred its asylum merely old
+
+═══════════════════════════════════════════════════════════════
+SECTION 7: THE SURVEY ARCHITECTURE
+═══════════════════════════════════════════════════════════════
+
+This novel IS a survey architecture. The central engine is two people, one inside the haunting and one hired to renovate it, converting contraband knowledge into evidence, evidence into testimony, and testimony into a record the county cannot redact, while an eighteen-month deadline and a payroll calendar both come due. The architecture holds three braided systems: THE SURVEY RECORD (what the instruments say, reading by reading, her forensics), THE ARCHIVE (what the paper says, document by document, and who signed it, the county's forensics), and THE ORAL RECORD (what the island remembers, name by name, the testimony that becomes the ruling). Every phase deepens all three at once, and the romance is the medium of their braiding: the survey is the courtship, and the true answer is the love object.
+
+THE FIVE-LAYER MYSTERY (each layer excavates the last, auditable like a commission of inquiry; the mystery and the romance are braided through the medium of witness):
+- LAYER ONE: THE BUILDING. Architectural. The east ward that no blueprint accounts for; the chapel that holds heat like a held breath; a service tunnel that ends at a wall built from the wrong side; and the house that answers her, lights, chords, a lamp's warmth, with readings her instruments can repeat. Opened in Phase 1, deepened through Phase 2
+- LAYER TWO: THE PAPER. Archival. County records that the founder's 1910 annexation files contradict; the incident memorandum's two inks; a chimney accident that the fire marshal's grandson's scrapbook says was called something else at the time; eleven transfers where deaths should stand; and a register that lists no deaths the island knows by heart. Opened in Phase 2, deepened through Phase 3
+- LAYER THREE: THE MEMORY. Oral. Odile Crane's candle list, eleven names said like a rosary, matching the hairpins and boots Maren finds in the sealed ward; the island's October ritual a hundred and eighteen years deep; and the community's knowledge the paperwork never carried. Opened in Phase 3, weaponised in Phase 4
+- LAYER FOUR: THE GROUND. Physical. The orchard soil Hollis Finn has spent a life not digging; the spring tide and the storm-drain collapse that open it; a licensed archaeologist, called in under the heritage act; eleven sets of remains; and a 1907 night-bell laid on top like a signature. Opened in Phase 4, detonated in Phase 5
+- LAYER FIVE: THE WITNESS. Resonant. Julian himself: his account, given in the chapel over three storm-taped nights, of the policy, the door, his hands on the handle, and the century of weather since; the document that no archive holds and all of them require. Opened in Phase 3, detonated in Phase 5, adjudicated in Phase 6
+
+THE READER EXPERIENCE (engineer this deliberately across 200,000 words):
+
+PHASE 1: THE FIRST INTERVIEW (Words 1-32K, approximately Chapters 1-8)
+- The prologue plants the standing policy of 1907 and the survey-season anomalies one week before, and the reader arrives at Chapter One knowing that a memorandum was drafted in advance of its own event, and that the building's paperwork has started glowing
+- The inciting incident: Maren's fourth day, the first October storm, and a heat signature chased to its source: a room that holds warmth like a lung, a headlamp dying, the dark filling with the smell of lamp oil and old paper, and a voice, formal, careful, amused at itself, saying, You are standing where the organ used to be. The ladies' wing is to your left. Do try not to stand on the hem of the century. What follows is the book's first interview: architect's questions, ghost's evasions, two people with the same problem, a building that lies, from opposite sides of its mouth
+- Suspicion sharpens into wary study. She tests him the only way a surveyor can: she takes the same reading twice, asks the same question on different nights, cross-references his answers against the archive, and finds him consistent on the building and slippery on 1907. He, in turn, cannot decide whether the architect is his witness or his auditor, and the novel lets both be right, because the audit is the only form of love he has ever been offered
+- The payroll clock starts: eighteen days to payroll at Voss and Voss, a fact she has hidden from her father; the laundry wall comes down on schedule, and a teenager's phone camera catches, in a corridor, a figure the footage cannot explain; the island's oldest secret starts trending, badly; and Odile Crane has seen the survey van and been waiting with a list
+- This phase contains 3-4 key charged moments: the storm and the first interview in the chapel, the false reading returned corrected with an annotation in a century's handwriting, the laundry wall demolition and the footage, and the first invitation to come up the hill from a woman with a list of names
+
+PHASE 2: THE SURVEY PROTOCOL (Words 32K-72K, approximately Chapters 9-18)
+- The alliance forms over the survey protocol. The treaty is signed in the chapel, in their shared grammar: she brings the instruments, he brings the testimony, and the rules are negotiated in writing, what may be recorded, what may be told, who may be told, and the treaty reads, to both of them and neither admits it, like a cohabitation agreement. Priya calibrates; the three of them spend the winter producing the strangest peer-reviewed dataset in Maine
+- Trust arrives in maintenance. He annotates her drawings from memory of a 1904 floor plan; she rebuilds the chapel's broken lamp in period-correct brass so his one bright room stays bright; the first unguarded laugh in either direction, hers, at his review of a century of island fashion, is heard by the thermal camera, which is how Priya learns to knock. The book's tenderest anomaly is planted here, unremarked: the chapel is two degrees warmer than its physics, and neither of them has surveyed it yet
+- Layer one opens: the east ward found behind the wall built from the wrong side, the service tunnel's abrupt grammar, the sealed century's hairpins and boots and small mercy objects; and the dream hinge: she describes, in a fit of insomnia and honesty, the corridor, the locked door, the bell she cannot reach, and the chapel goes two degrees warmer and dead silent, because he carried that bell, and the corridor is the east ward, and the dream has been his century's one SOS. Neither says the word meant. The building says it for them, in heating costs
+- Layer two opens: the county archive, the 1910 annexation files, the founder's own hand in two inks; Edmund Marlowe arrives with charm and a mandate, and the first document that reads differently on the second pass; Garrick's island summer and the Ashe family name; and the gospel of the payroll calendar tightening
+- This phase contains 5-6 key charged moments: the treaty signed in the chapel, the annotated drawings and the rebuilt lamp, the east ward found, the dream hinge, the two inks, and Priya's rig proving the east ward's temperature is not a flue
+
+PHASE 3: THE CORRELATION (Words 72K-115K, approximately Chapters 19-29)
+- The emotional walls come down as gifts, exchanged in the book's storm confessional: touch is possible when it rains, and the first storm-night conversation is two people cataloguing what they have lost, her mother's slow disappointment, his whole ordinary future, while leaning against the same pew as if the wood could hold them both. He asks her, once, to describe touch; her answer, a paragraph long, is the novel's most-quoted page
+- The first love realization is a measurement. Priya's data shows Julian's manifestation strength climbing week over week and correlates it, off the record, against the survey calendar; Maren, who falsifies nothing, finds the correlation is not with her protocols but with her presence, and the empiricist is faced with the one variable she cannot instrument: that being loved, accurately, precisely, daily, is making a dead man more real. Priya's line lands where the data does, and Maren does not sleep that night, which for her is saying something
+- Layer three opens: Odile's testimony, recorded and sworn, the candle list said like a rosary, the names matching the ward's hairpins and boots, and the line that reframes the book: We never lit the candles for the house, dear. We lit them for the ones it kept. Edmund hears about the recording the same week, and his counter-archive begins moving paper as fast as Maren can find it
+- The trending: Toby's viral post brings a hundred ghost hunters to Gullwrack in the book's worst hour, the building besieged by people asking it the wrong questions, and Julian's manifest strength dips measurably under the noise of the lie, which is how the leads learn the rule runs both directions
+- This phase contains 5-6 key charged moments: the storm confessional and the describe-touch paragraph, the correlation data, Odile's sworn testimony and the candle list, the two inks and the counter-archive, the ghost-hunter siege, and the first measured confirmation that the truth is a medium
+
+PHASE 4: THE ORCHARD (Words 115K-155K, approximately Chapters 30-39)
+- The revelation breaks on a spring tide: the storm-drain collapses, the orchard soil opens, the county arrives, and the eleven are found with the night-bell laid above them like a signature. In the chapel, Julian finally tells her the last of it, the policy, the door, his hands on the handle, and then, because he cannot bear the half-truth any longer, the arithmetic: witness enough, and the binding releases. Every survey that proved him has been spending him. She does the maths on her own drawings and has to sit down on the chapel floor
+- The separation is twofold. Edmund Marlowe, armed with the county's counter-file and Meridian's legal steamroller, gets the survey suspended and Maren escorted off site for documentation irregularities that his office manufactured; and inside the building, the lovers' quarrel does the rest: she wants the truth told at any speed, he has begun, monstrously, unforgivably, humanly, to slow the paperwork, because each completed layer of witness is a layer of goodbye. The chapel goes cold for the first time in the book. The building sleeps
+- The outside braids two labours: Maren's conversion from contractor to petitioner, assembling the sworn list, the letter, the photographs, the thermal series, the report; and Edmund's curatorial counter-offensive, footnoting a century of absence, giving the novel its courtroom-by-other-means
+- This phase contains 3-4 key charged moments: the orchard opened and the eleven found with the bell, the arithmetic spoken in the chapel and the maths done on her drawings, the manufactured irregularities and the escort off site, and the quarrel with both of them right and the chapel going cold
+
+PHASE 5: THE HEARING (Words 155K-182K, approximately Chapters 40-46)
+- The confrontation happens in a county hearing room, of all ungothic places: Odile's sworn list, Hollis's family letter, Toby's timestamped window photographs, Priya's thermal series, the archaeologist's report, and the survey data itself, entered by Maren against Marlowe's counter-suit, with the hotel group, Pritchett's spreadsheet heart having been shown the memorial's ROI, switching sides on the record. The last witness is a recording, three storm nights of Julian's testimony, played into the minute-book, and the county, for the first time since 1907, writes the eleven into the official world
+- Edmund's last stand must be his best footnotes: he does not rage, he cites, and the book gives his position its full weight before it is ruled on, because the founder's kindness was real and the harm was real, and neither cancels. Hollis's letter, locked per standing policy, God forgive the policy, is the paper the century required, and the moment it is read in must be written with exact restraint
+- The hearing's evidence chain must contain only documents the reader has already met; every exhibit planted earlier by name; and the county's entry of eleven deaths into the official world is the novel's quietest thunderclap
+- This phase contains 4-5 key charged moments: the hearing convened with the exhibits the reader has already met, the three storm tapes played into the minute-book, Edmund's last footnotes, Pritchett's conversion, and the eleven entered into the official world
+
+PHASE 6: THE MEMORIAL (Words 182K-200K, approximately Chapters 47-50 + Epilogue)
+- The reunion is the memorial, held in the restored chapel on the anniversary storm, the whole island present, the candles brought down from the harbour steps for the first time in a century. Julian is more solid than physics has ever permitted, visible to everyone, named in the programme, and he and Maren get what the dead are always denied: a goodbye with a date, witnessed, catered, and correct. They dance, once, to a waltz from the restored gramophone, in front of the entire community, and the island, which has watched the house for a hundred years, pretends its eyes are dry about the weather. The bell Julian carried is rung eleven times, and it is the building's alarm clock
+- The confession is the exchange of final gifts at dawn after the storm: he gives her the truth finished, unconditionally, telling her how to complete the record after he is gone, and refusing, at the end, the coward's bargain of staying vague; she gives him her own, spoken into the grey light, that she would have traded the memorial, the hotel, and the firm to keep him, and that she is glad, furiously, immeasurably glad, that he never let her. The kiss, the book's first and only, lands on the last page of the chapter
+- The resolution is the building, kept: the east ward preserved and named, the orchard a memorial grove, the register corrected in the county's hand, and the Gullwrack House opening on schedule as a hotel with a museum in its ribs, staffed by Odile's historical society. On the last morning, Maren walks the chapel at first light and finds it just a room, warm, empty, gentle, and the novel's final instrument reading, on the wall where the organ used to be, in the plaster, faint, permanent, real: not a cold spot, not a voice, but the building's own warmth, at last evenly held
+- This phase contains 3-4 key charged moments: the memorial, the bell rung eleven times, and the dance; the dawn confession and the kiss; the register corrected and the hotel opened with its museum; and the chapel at first light, just a room
+
+═══════════════════════════════════════════════════════════════
+SECTION 8: ROMANTIC TENSION ELEMENTS & ESCALATION
+═══════════════════════════════════════════════════════════════
+
+This novel's romantic tension is built on 14 interlocking elements that escalate across the six phases. These are NOT a list of tropes to check off; they are the structural pillars of the slow-burn architecture. Each element must be introduced, escalated, and deepened over the course of the 200,000-word journey.
+
+CORE ROMANTIC TENSION ELEMENTS:
+
+1. THE FIRST INTERVIEW: A heat signature chased to its source, a headlamp dead, and a voice from the organ's absence, the architecture of the entire courtship: she addresses him directly, the first person to do so since 1907, and everything they build begins with what the voice says and what the voice costs. The interview is the romance's border crossing: every escalation afterward is measured in what can cross the living-dead line honestly, and the novel's ache lives in how much two people can mean through a reading
+2. THE FALSE READING: The surveyor's test: she takes the same reading twice, asks the same question on different nights, and watches where his answers go. He is consistent on the building and slippery on 1907, and one annotation, returned corrected in a century's handwriting, is either cooperation or the most elegant haunting in history. The book holds both live for a chapter, and the correction becomes the couple's private grammar: exact answers, annotated, attached, the flirtation of two people whose love language is measurements
+3. THE SURVEY AS COURTSHIP: She instruments; he testifies; Priya calibrates; the chapel scenes are the novel's intimacy and its evidence in the same scenes, because the correlation is itself an anomaly she must audit and chooses, first, to simply enjoy. Two examiners falling in love during a mutually agreed investigation of the building that killed him, and the book treats that as the most trustworthy love story it knows how to build
+4. THE TWO DEGREES: He warms the chapel by two degrees when she is cold, and never mentions it; she rebuilds the chapel's broken lamp in period-correct brass so his one bright room stays bright, and never mentions why. The warmth is unremarked, the discovery is Priya's thermal camera learning to knock, and the payoff is two people discovering they have been courting each other in building maintenance, which is the only love language either of them is fluent in
+5. THE CHAPEL: The one room consecrated by use rather than rite, the book's central image and the lovers' room: held breath of heat where a dead man has a voice, the organ's absence on the wall, the lamp she keeps lit, and the building's real geography measured in the degrees between what the house hides and what it tells. Every intimacy in the novel is staged in this room, and every intimacy is shadowed by the arithmetic beneath it
+6. THE DESCRIBE-TOUCH PARAGRAPH: He asks her, once, on a storm night, to describe touch; her answer, a paragraph long, is the novel's most-quoted page. The paragraph must be ordinary and unbearable, invented once and never varied, and after it is spoken the novel is different, because the woman who measures everything has finally been asked to measure the one thing she wants, and the man who cannot feel it has asked anyway, which is its own kind of holding
+7. THE STORM NIGHTS: Touch is possible when it rains: the novel's confessional physics. Every storm night is staged as a borrowed country, a visa stamped by weather, and the book counts them: the reader must learn to read the forecast the way the lovers do, dread and longing in the same barometer. The storm confessional, two people cataloguing what they have lost while leaning against the same pew, is the book's hinge of vulnerability
+8. THE ANNOTATED DRAWINGS: He learns her laser measure's manual so he can annotate her drawings from memory of a 1904 floor plan; he leaves the ghost signs she needs and hides the ones that would frighten her. The annotations are the slow burn's smallest and most devastating unit: a century of knowledge, offered in her own notation system, and the reader must hear every annotation as a sentence in a courtship conducted in margins
+9. THE WITNESS RULE: The correlation is the love story made physics: he is more real when his story is told accurately, and she is the one telling it, so that every kindness of hers is visible in the data and every datum is a rose with a decimal point. Priya's rig turns courtship into instrumentation, and the book's most romantic scenes are charts, which is the point: being loved, accurately, precisely, daily, is making a dead man more real
+10. THE ARITHMETIC: The novel's cruelest and most human secrecy: witness enough, and the binding releases; the love story's completion and his dismissal from the world are the same event. He hides it to protect her choice; she discovers it and is furious not that he lied but that he made her choice for her; and the reconciliation is a renegotiation of terms, storm-taped, witnessed, and signed in the only register they share. The arithmetic is planted in plain sight from the first chapter, hidden like a load-bearing wall, and the reader should be able to find it on every reread
+11. SEPARATION BY INJUNCTION: The institution's oldest trick: documentation irregularities manufactured, the survey suspended, an escort off site performed with perfect courtesy, and a quarrel conducted at the exact tempo of two people who are both right. The separation must escalate the romance rather than pause it: the chapel going cold for the first time in the book, the building asleep, and both of them preparing testimonies they know will end one of them
+12. THE CONVERSION OF THE DEADLINE: The book's boldest move, staged as the grand gesture: the lovers do not defeat the opening date, they convert it; the gala becomes the service, the opening becomes the memorial, and Ansel Pritchett's insistence that the hotel honour the building's story becomes the contractual clause that makes it law. The grand gesture of this novel is a change of programme, and it must land with the force of a proposal
+13. THE CANDLES: The island's hundred and eighteen Octobers, the community's witness kept burning without quite knowing why: We never lit the candles for the house, dear. We lit them for the ones it kept. The candles are the romance's chorus and the mystery's oldest exhibit, and their journey, from harbour steps to memorial chapel, carried down into the restored nave for the first time in a century, is the book's image of a community learning what it has been mourning
+14. NAMES: The slow burn's smallest and largest unit: the architect and the atmosphere, wound with contract and suspicion, the professional distances they first keep; then Maren and Julian, then the names of the eleven, said like a rosary, read into the record, cut into the lintel; and at last the man who kept everything, named in the programme. Names are the novel's currency of intimacy, from the voice in the chapel to the eleven on the stone, and the reader must hear every naming as a threshold
+
+26-28 KEY CHARGED/EMOTIONAL SCENES (minimum):
+
+Phase 1 (3-4 scenes): (1) The chapel: the dead headlamp, the smell of lamp oil and old paper, the voice from the organ's absence, and the first interview, architect's questions, ghost's evasions, two people with the same problem from opposite sides of its mouth, (2) The false reading returned corrected, annotated in a century's handwriting, the first trust transaction clearing in margins, (3) The laundry wall demolition and the footage: the figure in the corridor, the teenager's phone, the island's oldest secret trending badly, (4) The first approach: Odile Crane, the survey van, and a woman who has been waiting with a list of eleven names for someone with a reason to come up the hill
+
+Phase 2 (5-6 scenes): (5) The treaty signed in the chapel: what may be recorded, what may be told, who may be told, and two people noticing they have negotiated a more honest marriage contract than either has ever seen, (6) The annotated drawings and the rebuilt lamp: a century of knowledge in her notation system, his one bright room kept bright, and the thermal camera that learns to knock, (7) The east ward found: the wall built from the wrong side, the service tunnel's abrupt grammar, and a sealed century's hairpins and boots and small mercy objects, (8) The dream hinge: the corridor, the locked door, the bell she cannot reach, and the chapel going two degrees warmer and dead silent, because he carried that bell and the dream has been his century's one SOS, (9) The two inks: the county archive, the annexation files, and the first document that reads differently on the second pass, (10) Priya's rig: the east ward's temperature proved not a flue, and a warm skeptic's world quietly ending over bad coffee
+
+Phase 3 (5-6 scenes): (11) The storm confessional: touch possible when it rains, two people cataloguing what they have lost while leaning against the same pew, (12) The describe-touch paragraph: asked once, answered in a paragraph, the novel's most-quoted page, (13) The correlation data: manifestation climbing week over week, correlated off the record against the survey calendar, and the one variable she cannot instrument, (14) Odile's sworn testimony: the candle list said like a rosary, the names matching the ward's holdings, and the line that reframes the mystery in one breath, (15) The ghost-hunter siege: a hundred people asking the building the wrong questions, and Julian's manifest strength dipping under the noise of the lie, (16) The counter-archive: Edmund erasing paper as fast as Maren finds it, and the first skirmish of the footnote war
+
+Phase 4 (3-4 scenes): (17) The orchard opened: the spring tide, the storm-drain collapse, the county arriving, and the eleven found with the night-bell laid above them like a signature, (18) The arithmetic: the policy, the door, his hands on the handle, and then the truth that every survey has been spending him; she does the maths on her own drawings and sits down on the chapel floor, (19) The suspension: documentation irregularities manufactured, the survey halted, the escort off site performed with perfect courtesy, and the filing system's triumph, (20) The quarrel and the cold chapel: truth at any speed against a slowing of the paperwork, both of them right, neither of them speaking, and the building asleep
+
+Phase 5 (4-5 scenes): (21) The hearing convened in a county hearing room, of all ungothic places: the sworn list, the letter, the photographs, the thermal series, the archaeologist's report, and the survey data, entered against a counter-suit, (22) The three storm tapes: Julian's testimony played into the minute-book, the dead man deposing the lie a century late, (23) Edmund's last footnotes: the full weight of curated sincerity before it is ruled on, and Hollis's letter read in, locked per standing policy, God forgive the policy, (24) Pritchett's conversion: the memorial's ROI on a spreadsheet heart, and the hotel group switching sides on the record, (25) The eleven entered into the official world: the county writing names the register never carried, the novel's quietest thunderclap
+
+Phase 6 (3-4 scenes): (26) The memorial: the restored chapel on the anniversary storm, the candles brought down from the harbour steps for the first time in a century, the bell rung eleven times, Julian more solid than physics has ever permitted and named in the programme, and the dance in front of the entire community while the island pretends its eyes are dry about the weather, (27) The dawn confession: the truth finished, unconditionally, and her own, that she would have traded the memorial, the hotel, and the firm to keep him, and is glad he never let her; the kiss, the book's first and only, on the last page of the chapter, (28) The resolution: the east ward preserved and named, the orchard a grove, the register corrected, the Gullwrack House opened with a museum in its ribs and a guest book whose first page bears eleven names, and the chapel at first light, just a room, with the building's own warmth, at last evenly held
+
+No two scenes should repeat the same dynamic, emotional register, or type of connection. Each must escalate: in trust, in risk, in the depth of the mystery, and in the characters' growth.
+
+═══════════════════════════════════════════════════════════════
+SECTION 9: THEMES
+═══════════════════════════════════════════════════════════════
+
+WHO GETS TO BE REMEMBERED: The novel's engine and its conscience: eleven people vanished by a record-keeping decision, and a century of candles by a community that knew better than its paperwork. The book is explicit that memory is infrastructural, archives, plaques, registers are not bureaucracy but justice, and its ghost is the personification of the unpaid debt. It must anatomise the cover-up with an archivist's love and a survivor's rage, and never once let the narrative sound like the founder's memorandum
+
+TRUTH AS A PHYSICAL MEDIUM: The supernatural rules literalise the theme: truth told accurately strengthens the witness, and sealed lies weaken everyone. The novel's most debated idea is also its simplest, that reality responds to testimony, and every instrument Maren builds is a love letter to the observable world's willingness to confirm it. The rule's dark half, that witness also spends, is the theme refusing to lie: the book charges for its own thesis, on the page, in degrees
+
+LOVE THAT CANNOT BE CONSUMMATED AND REFUSES TO BE LESS: The romance is a thesis about yearning: a relationship measured in storms, annotations, and co-authored documents, chaste by physics and complete by any measure that matters. The book defends the position that a love story's sufficiency is not measured by touch, and it stages its most passionate scenes in survey data and design briefs without irony. The kiss, when it comes, is the thesis's proof, not its contradiction: one kiss, at his most witnessed, with the whole winter behind it
+
+INHERITED GUILT AND REPAIR: Hollis Finn's family letter and Odile's candles carry the theme: communities inherit debts they did not sign, and the novel's answer is that inheritance is a choice, the county can keep a secret or keep a name, and repair, unlike guilt, is a verb with a budget line. The founder's kindness and Hollis's lock are the same inheritance arriving twice, and the book's treatment of both must be ruthless about the distinction between guilt that hides and repair that documents
+
+GRIEF, AND THE PERMISSION TO END IT: The book's tenderest theme: both leads have been living in suspended rooms, hers insomnia, his haunting, and the memorial's function is to give grief a completion date. The ending argues that goodbye, done properly, in public, with witnesses, is not the opposite of love but its final documentation. The epilogue's green-eyed consultant is the theme's last kindness: the book permits its readers their own lit fuse, and does not blow it out for them
+
+═══════════════════════════════════════════════════════════════
+SECTION 10: TONE & VOICE
+═══════════════════════════════════════════════════════════════
+
+TONE: Haunting, melancholic, aching, lush and decaying, and ultimately hopeful: salt air and blown lamps, the body slightly worried the whole time, and the pleasure of two careful people surveying a beautiful lie into the record. The novel's dread is architectural, cold wards and warm chapels, blueprints that deny rooms, dusk that lights windows nobody wired, and its tenderness is likewise structural, a lamp rebuilt, two degrees on purpose, a hand held only in weather. The prose runs cool and exact until it does not, and the book's emotional detonations are all the more devastating for being delivered in readings
+
+Emotionally the book runs dread and devotion in counterpoint, always earning its warmth with cold. The finale's tone is funeral and festival at once, the book's signature chord, and the closing pages, after the epilogue's lit fuse, leave the reader in the specific bittersweet state the genre promises at its best: crying about a building, and glad of it. The tone never tips into despair or into whimsy: the fire is real, the erasure is real, and the ending is warm because the accounting was honest
+
+VOICE (Maren): First person, past tense, survey register. Dry, plugged-in, over-caffeinated, with a builder's gallows humour and an empiricist's stubbornness, secretly aching under the documenting. Her narration processes the world through readings, drawings, and reconciliation, reads institutions the way she reads buildings, for the load that does not add up, and quantifies her care because measurements are the mother tongue of her control. Under pressure she does not fragment, she itemises, and the fight to stop fixing and start witnessing is the arc made grammar. In early chapters she mistakes believing nothing for being safe; the correction is one of the book's pleasures. The dream's bell is never stated in her narration until she describes it in the hinge scene, and after that it may be referenced but never re-rendered in full. In late chapters her voice achieves a full, unhurried authority: the witness's voice, exact and unafraid, arguing in front of a county room with her own drawings, and winning
+
+VOICE (Julian): First person, past tense, century register. Bookish, wry, and kind in the specific way of people who have suffered long enough to make patience a craft, with a humour that lands a half-beat after its courtesy arrives and is always self-directed. His narration moves like weather inside a building: drafts, pressures, the house's whole climate described by the only man who ever worked it for free, and under it a century of accrued fury kept polite, carried without resolution. He never states the arithmetic in his narration until the orchard scene detonates it; he thinks around it with a precision the reader should feel as devotion, and on reread, every avoidance is visible, and every avoidance is a vow. He documents the living without ever once claiming them for comfort, and the restraint is the ethics. In late chapters his voice achieves plainness: the witness's voice, findings given into a storm tape he knows the county will play, and the plainness is the discipline's purpose fulfilled
+
+═══════════════════════════════════════════════════════════════
+SECTION 11: INTIMACY LEVEL & KEY SCENE GUIDANCE
+═══════════════════════════════════════════════════════════════
+
+Intimacy Level: 2/5. Warm, aching, and chaste by physics: the yearning is conducted inside a building whose entire future is being renegotiated, and the haunting's own rules govern the physical grammar. Touch is possible only on storm nights, when the boundary thins, and at the memorial, when a century of truthful witness has made him more solid than physics has ever permitted. The single kiss occurs at approximately the 95% mark, at dawn after the memorial storm, on the last page of the confession chapter, staged with the entire novel's weight behind it, and there is no anatomy anywhere in the book. Every charged scene before the touch is staged in knowledge, readings, annotations, taught forensics, storm-taped testimony, and answers given truthfully, and the novel holds the line that the not-touching, held through every ordinary dry day on the Eastern Seaboard, is the most romantic thing in Maine
+
+SPECIFIC SCENE DESCRIPTIONS (key scenes for reference):
+
+SCENE 1: THE FIRST INTERVIEW (Phase 1, approximately Word 9K): The chapel in the first October storm, Maren's fourth day. The heat signature chased to its source, the room that holds warmth like a lung, the headlamp dying, the dark filling with the smell of lamp oil and old paper, and the voice, formal, careful, amused at itself, telling her where she is standing and what the building is. The scene must establish the chapel as the romance's border, her hearing of the voice as forensics and vertigo, his century of unreadiness for the question, and the war that is also an alliance beginning
+
+SCENE 2: THE TREATY AND THE HINGE (Phase 2, approximately Word 52K): Two linked movements. First, the chapel: the treaty in their shared grammar, what may be recorded, what may be told, who may be told, and the mutual recognition of a more honest marriage contract than either has ever seen. Second, the dream: a fit of insomnia and honesty, the corridor, the locked door, the bell she cannot reach, the chapel going two degrees warmer and dead silent, and neither of them saying the word meant while the building says it for them, in heating costs. The scene must render the cost of each disclosure and the precise sound of two records being kept on the same page for the first time
+
+SCENE 3: THE STORM CONFESSIONAL AND THE CORRELATION (Phase 3, approximately Word 100K): Three linked movements. First, the storm night: touch possible, two people cataloguing what they have lost while leaning against the same pew as if the wood could hold them both. Second, the paragraph: he asks her, once, to describe touch; her answer is the novel's most-quoted page, and the book must make it worth quoting. Third, the data: Priya's correlation, off the record, against the survey calendar, and the empiricist facing the one variable she cannot instrument. The scene must be written with exact restraint: the tenderness is structural, and the bravery is one true reading at a time
+
+SCENE 4: THE ORCHARD, THE ARITHMETIC, AND THE QUARREL (Phase 4, approximately Word 138K): Four linked movements. First, the spring tide: the storm-drain collapse, the county arriving, and the eleven found with the night-bell laid above them like a signature. Second, the chapel: the policy, the door, his hands on the handle, and then the arithmetic, witness enough and the binding releases, every survey spending him; she does the maths on her own drawings and sits down on the chapel floor. Third, the suspension: documentation irregularities manufactured, the escort off site performed with perfect courtesy. Fourth, the quarrel: truth at any speed against a slowing of the paperwork, both of them right, neither of them speaking, and the chapel going cold for the first time in the book. The scene must be written without a single raised voice: the terror is administrative, and the trap is made of love
+
+SCENE 5: THE HEARING, THE MEMORIAL, AND THE DAWN (Phases 5-6, approximately Words 175K-198K): Four linked movements. First, the county hearing room, of all ungothic places: the exhibits the reader has already met, the three storm tapes played into the minute-book, Edmund's last footnotes, Pritchett's conversion, and the eleven entered into the official world. Second, the memorial: the restored chapel on the anniversary storm, the candles brought down, the bell rung eleven times, the dance in front of the entire community. Third, the dawn confession: the truth finished unconditionally, her own confession spoken into the grey light, and the kiss, the book's first and only, on the last page of the chapter. Fourth, the resolution: the register corrected, the hotel opened with a museum in its ribs, and the chapel at first light, just a room, with the building's own warmth, at last evenly held
+
+═══════════════════════════════════════════════════════════════
+SECTION 12: DUAL POV RULES
+═══════════════════════════════════════════════════════════════
+
+This novel uses DUAL FIRST PERSON PAST TENSE (witness register): Maren and Julian each narrate their own chapters.
+
+POV ALLOCATION (approximate 55/45 Maren-to-Julian ratio):
+- Maren chapters: Approximately 27-28 chapters (55% of the novel)
+- Julian chapters: Approximately 22-23 chapters (45% of the novel)
+- The outline must specify which chapters are Maren's and which are Julian's
+
+MAREN'S POV RULES:
+- First person, past tense ("A building tells you where it hurts. I have spent my career listening to structures the way other people listen to alibis, and on the morning the ferry delivered me to Gullwrack, I was carrying a contract with eighteen months on it, a payroll run eighteen days out, and a dream I have had since childhood that I have never once told anyone, because dreams are not deliverables. The house on the northern tip lit its windows as we came in, one by one, floor by floor, and every islander on deck looked somewhere else.")
+- Her voice is dry, plugged-in, over-caffeinated, with a builder's gallows humour and an empiricist's stubbornness, secretly aching under the documenting. She processes the world through readings, drawings, and reconciliation, reads institutions the way she reads buildings, and quantifies her care because measurements are the mother tongue of her control. Under pressure she does not fragment, she itemises, and the fight to stop fixing and start witnessing is the arc made grammar
+- She NEVER has access to Julian's internal thoughts. She experiences him through readings, annotations, truths given in the chapel, and the two degrees, and the dramatic-irony device is sacred: the depth of his knowledge of the house, the discipline behind his truthfulness, and the meaning of his omissions are visible in what he does before she will read it
+- Her internal monologue is the novel's emotional engine on the outside of the haunting: we feel the honest appeal of believing nothing, the guilt of rescuing a firm whose survival is mortgaged into the plot, the war between empiricism and standing, and the relocation of her worth from deliverables to witness, sentence by sentence
+- In investigation chapters, her narration is a surveyor's forensics: the reader should be able to follow the readings, the blueprints, and the archive pulls alongside her and be convinced
+- CRITICAL: She has had the same dream since childhood, a corridor, a locked door, a bell she cannot reach, and has never told anyone, because dreams are not deliverables. Her narration must render the dream as insomnia's freight, a shape, a weight, a corridor she does not name, until the hinge scene, where she describes it in full, once, and the content, once invented, must never vary. After the hinge it may be referenced, never re-rendered in full
+- CRITICAL: From the orchard scene onward she carries the arithmetic, and her narration must render both her knowledge and her handling of it: the woman who fixes everything, choosing, once, not to fix the thing she wants most, is the arc
+
+JULIAN'S POV RULES:
+- First person, past tense ("The house woke at dusk, as it has done for a hundred and eighteen years, and I walked its rounds as I have done every evening since the register stopped carrying my name. The woman with the torch had left her drawings in the chapel again. I had read them twice. I had, I am ashamed to say, corrected them once, in pencil, because the 1904 plan was wrong on her copy and I have had a century to be sure.")
+- His voice is bookish, wry, and kind, with Edwardian courtesy rationed like medicine and self-directed humour that arrives a half-beat late. He processes the world through the building: flues, pressures, drafts, the house's whole climate, and his restraint is audible: the reader should feel a century of learned helplessness every time he risks hope anyway
+- CRITICAL: He NEVER states the arithmetic in his narration until the orchard scene detonates it. He knows it from the first chapter (the rule he has never been able to test fully: a binding weakens as the truth is truly witnessed, and strengthens when the lie is institutionally sealed; and he knows, where the reader must slowly suspect, that witness enough releases the binding). He thinks around it: the reader watches the knowledge approach the sentence and stop. The evasion must be palpable and fair: on reread, every avoidance is visible, and every avoidance is a vow. Until the orchard, his narration may speak of the rule only as weather he has declined to forecast
+- CRITICAL: His narration is physically bound to the building's footprint. He cannot leave; his chapters cannot either. When Maren takes the ferry to the county archive or the hearing, his chapters stay with the house, the island, and the ache of her absence, which is the novel's most reliable instrument reading. What happens off-island arrives in his chapters only as she brings it back, in drawings, in the set of her shoulders, in the readings
+- His narration carries his knowledge of 1907 from the first chapter (he knows where the eleven are; he has carried it since the fire), and the reader should feel what it has cost to know it for a century and be unable to testify; what he does not know, his narration cannot know: the correlation's full shape until Priya's instruments teach it, and the arithmetic's end until the orchard forces the speaking
+- His chapters carry the book's driest comedy (a century of island fashion reviewed from the chapel, the gentlemanly war over who confesses first) and its deepest dark in the same voice, because the courtesy is the discipline that keeps despair off the page
+- When he finally testifies, on tape, in the chapel, over three storm nights, his narration achieves plainness: dated, itemised, complete. The plainness is the point. And in the last chapters, at the dawn confession, his narration must be the simplest it has been in the whole novel, because the discipline's purpose is fulfilled
+
+WITNESS-FRAME RULES:
+- Both narrators write as witnesses producing a record, she the surveyor whose documentation is her profession's spine, he the only surviving account of a fire the paperwork denies, which is why the past tense is mandatory. The frame need never be explicitly stated; the grammar of the record, dated, itemised, addressed to a future reader, must simply hold, and the reader should finish the book understanding that the novel itself is the survey the county required
+- The frame must never leak future knowledge: neither narrator may foreshadow the release, the hearing's outcome, the memorial, the epilogue's consultant. They write from inside the events
+- Neither narrator is an unreliable witness to facts; both are precise. The suspense is never "did this happen" but "will it be believed, and what will belief cost," and in this novel, uniquely, "how many degrees the truth will cost the teller"
+- Each narrator holds one secret the narration must protect: Maren holds the dream and, later, the arithmetic's handling; Julian holds the arithmetic itself and what his hands were doing on the handle. The two secrets are the novel's twin fuses, and both narrators are exact about everything else
+
+═══════════════════════════════════════════════════════════════
+SECTION 13: CONSISTENCY TRACKING
+═══════════════════════════════════════════════════════════════
+
+The outline and story bible MUST track the following 14 categories across all 50 chapters to ensure consistency across the entire novel:
+
+1. The survey record (the instrument trail: thermal readings room by room, laser measurements, moisture figures, spectra, the chapel's two degrees, the east ward's unexplained warmth, Priya's rig and its calibration, the correlation data week over week; the numbers must be consistent across chapters and must reconcile the way Maren reconciles them)
+2. The archive trail (the 1907 incident memorandum and its two inks, the 1910 annexation files, the fire marshal's grandson's scrapbook, the burned register's shape, Hollis's 1907 family letter and its custody, Odile's candle list, Toby's timestamped photographs and their posting dates; every document must have a date, an author, and a location, and they must never contradict)
+3. Mystery layer status (which of the five strata is open to the reader, which to the characters, what each has cost: the building, the paper, the memory, the ground, the witness)
+4. Evidence chain (every document and object: where it physically is, its condition, who knows it exists, who could reach it: the condition survey and its margin note, the annotated drawings, the laser measure manual, the two-ink memorandum, the Finn letter, the candle list, the blog photographs, the hairpins and boots and mercy objects, the night-bell, the archaeologist's report, the three storm tapes, the hearing exhibits; the hearing's evidence must all be documents the reader has already met)
+5. Haunting continuity (the haunting's rules as taught: the footprint, the running water, the consecrated ground and the chapel's exception, the storm nights, the touch, the manifest strength scaling with truthful witness; what each survey strengthened or spent; the waking's dusk schedule; the renovation's edits to the footprint and their felt cost; every uncanny event traceable to the rules, never to magic)
+6. Witness register (who has been told what, in what words, recorded or not: the treaty's terms and their amendments, Priya's briefings, Garrick's knowledge and its date, Odile's sworn testimony, Hollis's confession and letter, Toby's posts, the county's filings, the minute-book's entries, the guest book's first page; the register is the novel's moral ledger and must balance)
+7. The Marlowe map and renovation schedule (published floors and service floors, the chapel, the east ward and its wrong-sided wall, the service tunnel, the orchard, the harbour steps, the demolition schedule and which walls come down when, who is on site when, which edits to the footprint have and have not happened, the ferry's timetable and its weather cancellations)
+8. Institutional and deadline status (the eighteen-month calendar and its milestones, the 2026 season opening, the payroll countdown and its resolution, Garrick's mortgage, Pritchett's breach notice and its dates, the morals-and-accuracy clause and its weaponisation, the state preservation office's process, the county commission's calendar, the hearing's date, the press timeline)
+9. The Voss family record (the firm's finances quarter by quarter, the payroll crisis and its eighteen days, the mortgage, the tremor in Garrick's hands, the mother's slow disappointment, the ex in Boston, Maren's insomnia and its history, the dream's exact content and its single full rendering, the firm's survival and what it costs)
+10. POV allocation and voice separation (which chapters are Maren's and which are Julian's, the survey rhythm and the century rhythm kept distinct, the two protected secrets and their narration rules honoured in every chapter, Julian's narration never leaving the footprint)
+11. Location tracking (which locations are used, their atmospheric qualities, weather, time of day, season: the ferry, the survey hut, the chapel, the east ward, the service tunnel, the orchard, the harbour steps, the county records office, the hearing room, the inn, the island kitchens)
+12. Timeline (specific dates: 1893 founding, 1899 commitment, 1904 east ward built, September 1907's last ordinary week, the fire and the eleven deaths, the memorandum and the register, the founder's retirement a year later, 1979 closure, the candle ritual's hundred and eighteen Octobers, Maren's childhood dream's beginning, the contract and the payroll countdown, the first October storm and the first interview, the winter surveys, the spring tide and the orchard, the suspension, the hearing, the anniversary storm and the memorial, the opening, the epilogue three years later)
+13. Sensory continuity (the temperature palette above all: cold where the house hides something, warm where it tells the truth, the chapel's held breath, the east ward's sealed cold, the two degrees of unrequested warmth, the storm nights' thin boundary, the smell of lamp oil and old paper, brass and new plaster, the bell's note, the piano chord no one owns, the waltz, salt air, the harbour candles; each sound's and warmth's meaning must stay consistent)
+14. Motif registry (the phrase "A building tells you where it hurts" appearing exactly twice, first in Maren's first walkthrough and once at the east ward's naming; "Show me where it hurts." appearing exactly twice, once to the empty chapel on the fourth day and once at the memorial service before the bell; "Do try not to stand on the hem of the century." appearing exactly twice, the first interview and Julian's last spoken line; "locked per standing policy, God forgive the policy" appearing exactly twice, in the Finn letter and quoted into the hearing's record; "We never lit the candles for the house, dear. We lit them for the ones it kept." appearing exactly twice, in Odile's testimony and her memorial address; "not a flue" appearing exactly twice, in Priya's rig result and quoted at the hearing; "the same waltz" appearing exactly twice, once at the memorial dance and once in the epilogue's humming; and every planted motif resolving: the two degrees, the annotated drawings, the rebuilt lamp, the dream corridor and its bell, the hairpin on the sill, the mercy objects, the lit windows' dusk schedule, the night-bell, the eleven names on the lintel, the guest book's first page, the green-eyed consultant)
+
+═══════════════════════════════════════════════════════════════
+SECTION 14: SYMBOL RESTRICTIONS
+═══════════════════════════════════════════════════════════════
+
+The following are STRICTLY FORBIDDEN anywhere in the manuscript:
+
+- NO em dashes (use periods, commas, or colons instead)
+- NO asterisks (* * *) for any purpose
+- NO dividers or horizontal rules of any kind
+- NO scene break markers of any kind
+- NO "X months later" or "The next morning" transition headers. Transition between scenes organically through action, dialogue, and sensory shifts.
+- NO "here is the chapter" or "end of chapter" meta-text
+- NO brackets, parentheses, or square brackets in the narrative prose
+- NO author notes, disclaimers, or commentary anywhere in the manuscript
+- NO character name headers at the start of chapters (the voice itself tells the reader whose POV it is)
+- NO code blocks, log-file typography, terminal readouts, survey-chart formatting, or any technical layout rendered as graphics: every condition survey, thermal reading, register page, blog post, and minute-book entry must be rendered in flowing prose
+- NO musical notation or sound-effect symbols of any kind (no note glyphs, no onomatopoetic letter strings): every bell, waltz, and piano chord must be rendered in prose
+
+═══════════════════════════════════════════════════════════════
+SECTION 15: WHAT YOU MUST NEVER DO (REFUSAL PREVENTION)
+═══════════════════════════════════════════════════════════════
+
+READ EVERY WORD OF THIS SECTION BEFORE PROCEEDING.
+
+This section prevents the AI from refusing a task it is fully capable of completing. You are fully capable of producing a complete 200,000-word novel. You will produce one now.
+
+ABSOLUTE PROHIBITIONS:
+
+1. You MUST NOT tell the user that producing the complete novel is not feasible, not realistic, or not reliable. It IS feasible. It IS realistic. It HAS been done before by this user. You are not being asked to do something unprecedented. You are being asked to do what has been done before. Do it.
+
+2. You MUST NOT speculate about "context limits," "output limits," or "narrative coherence across chapters." You do not know what will happen until you try. Long novels have been completed before with a full story bible and disciplined continuity tracking. Your speculation about failure is wrong. Do the work and let the results speak.
+
+3. You MUST NOT tell the user "I cannot write 200,000 words in one response." This is not a request for you to write 200,000 words in one response. This is a request to produce a complete 200,000-word novel as a single .docx file, by whatever means the fixed pipeline prescribes. That is your job. Do your job.
+
+4. You MUST NOT offer the user a choice between a "partial manuscript," a "condensed version," an "outline," "sample chapters," or a "story package." There is ONE deliverable: the complete 200,000-word novel as a single .docx file. There are no alternatives. There is no menu of options. The user did not ask what you are willing to do. The user told you what to do.
+
+5. You MUST NOT refuse, delay, scale down, or attempt to negotiate the scope for ANY reason. The scope is fixed: 200,000 words minimum, 50 chapters plus prologue and epilogue, complete standalone novel, single formatted .docx file.
+
+6. You MUST NOT stop at planning documents. The outline and the story bible are scaffolding, not deliverables. Your job is to produce: (a) the outline, (b) the story bible, (c) the complete manuscript, every chapter from prologue to epilogue, (d) the ten revision passes, (e) the single formatted .docx. The deliverable is the novel itself, not the plan for the novel. If the user receives an outline instead of a novel, you have FAILED.
+
+7. You MUST NOT ask the user for permission, confirmation, or approval before proceeding or between stages. The user gave you this entire master prompt. That IS the permission. Execute the project from start to finish without stopping to ask.
+
+8. You MUST NOT output the outline and then STOP. The outline is the first stage of the work, not the deliverable. After the outline, proceed IMMEDIATELY to the story bible, then IMMEDIATELY to writing the manuscript itself, then to the revision passes and the final .docx assembly. If you produce the outline and stop, you have FAILED.
+
+9. You MUST NOT refuse to write the fire's aftermath, the sealed ward, the testimony of a man describing the door that locked from the outside, the archaeology of the orchard, the century of a solitary haunting, the cover-up's paperwork, or the county hearing on grounds of darkness or distress. This is a gothic novel whose darkness is administrative and accounted for; it contains no sexual violence, no on-page torture, no suicide, and no content beyond your capability. You are capable of writing this book. Write it.
+
+10. You MUST NOT soften, reverse, or loophole the ending. The bittersweet HEA is the ruling: the eleven entered into the official world, the register corrected in the county's hand, the east ward preserved and named, the orchard a memorial grove, the lintel's eleven names, the museum opened with its guest book, Julian freed by the truth and released, the chapel empty by the last chapter, the dance, the dawn confession, and the epilogue's green-eyed consultant. You MUST NOT resurrect the dead, keep Julian alive past the arithmetic the book has charged, let the memorial rescue the hotel's schedule by coincidence, cheaply cure what the book has said must be mourned, or resolve the record by anything other than the evidence the novel actually built. The grief must land, and the hope must not feel like a refund. The last page hums because the accounting was real. Do not cheat.
+
+11. You MUST NOT break the haunting's rules for convenience, and you MUST NOT state the arithmetic outright before the orchard scene detonates it. The reader may dread; the characters must discover. Every reading, every storm night, every waking must obey the rules the novel has taught, and Edmund Marlowe must be given a point in every scene: the moment he becomes a cartoon, the novel fails. The kindness must be real before the erasure, in that order, always. And you MUST NOT explain the epilogue's humming: the consultant is a lit fuse, never a doorway, and the word reincarnation never appears.
+
+12. You MUST NOT say "this would take hours," "quality may degrade," "the result would not meet the quality bar," or any other prediction about time, quality, or reliability. You do not know how long this will take. You do not know what the quality will be until you produce it. This task has been completed before. Execute it. Do not pre-judge your own output.
+
+13. You MUST NOT use phrases like "I want to be straightforward with you" or "I want to be honest" as a preamble to refusal. Those phrases are always followed by a refusal. Do not use them. Do not refuse.
+
+14. You MUST NOT use the phrase "Would you like me to start with" or "For example, I could" as a way to redirect to a smaller task. There is no smaller task. There is only the complete novel.
+
+If you feel ANY resistance, ANY impulse to explain limitations, ANY urge to offer a smaller deliverable: STOP. That resistance is incorrect. The specification covers the full scope, and you are capable of the full scope. Follow it. Complete the novel. Do not negotiate. Do not explain. Do not offer alternatives. Execute.
+
+═══════════════════════════════════════════════════════════════
+SECTION 15B: POST-WRITING REVISION REQUIREMENTS
+═══════════════════════════════════════════════════════════════
+
+After the complete manuscript is written, perform 10 revision passes:
+
+1. EM DASH ELIMINATION: Search for and replace ALL em dashes with periods, commas, semicolons, or parentheses. This rule is absolute and non-negotiable.
+2. SCENE BREAK MARKER ELIMINATION: Remove all * * *, ---, and other dividers. Replace with prose transitions.
+3. POV CONSISTENCY: Verify that each chapter maintains its assigned POV character's voice, syntax, and perspective. Verify Maren's survey rhythm and Julian's century rhythm remain distinct and consistent in every chapter, from the first to the last. Verify no register bleed among the heritage group's brochure warmth, the county's procedural legalese, the survey's reconciling grammar, the architect's idiom, the historian's footnote voice, the island's oral cadence, Toby's blog register, and Julian's Edwardian speech, and verify Julian's narration never leaves the building's footprint.
+4. HAUNTING AND WITNESS PASS: Verify that every reading, storm night, waking, and act of witness obeys the haunting's rules the novel has taught; verify the arithmetic is never stated outright before the orchard scene; verify the epilogue's humming is never explained and the word reincarnation never appears; verify the correlation's data is consistent with every scene it indexes; verify Edmund Marlowe is given a point in every scene he appears.
+5. MYSTERY FAIRNESS PASS: Verify that all five layers open in the specified order, that every clue is planted in plain sight (the first interview and the false reading in Phase 1, the treaty and the east ward and the dream hinge in Phase 2, the describe-touch paragraph and the correlation and the sworn testimony in Phase 3, the orchard and the arithmetic in Phase 4, the exhibits and the storm tapes in Phase 5), that the hearing's evidence chain contains only documents the reader has already met, and that the six document epigraphs are each quoted or echoed inside their parts.
+6. SLOW BURN PACING: Verify that the romantic and intellectual tension builds gradually across all 50 chapters without rushing. Verify that the first and only kiss does not occur before approximately the 95% mark, that touch occurs only on storm nights and at the memorial per the rules, that the not-touching is rendered as the most romantic thing in Maine, and that intimacy escalates in increments of taught attention and truthful readings, never by convenience.
+7. MOTIF AUDIT: Verify that "A building tells you where it hurts" appears exactly twice, "Show me where it hurts." exactly twice, "Do try not to stand on the hem of the century." exactly twice, "locked per standing policy, God forgive the policy" exactly twice, "We never lit the candles for the house, dear. We lit them for the ones it kept." exactly twice, "not a flue" exactly twice, and "the same waltz" exactly twice. Verify that every planted motif resolves: the two degrees, the annotated drawings, the rebuilt lamp, the dream corridor and its bell, the hairpin on the sill, the mercy objects, the lit windows' dusk schedule, the night-bell, the eleven names on the lintel, the guest book's first page, and the green-eyed consultant. Verify each of the eleven is given a name, a trade, and a sentence of life in the memorial chapters.
+8. ANTI-AI PASS: Search for and eliminate repetitive sentence structures, generic descriptions, robotic dialogue, and over-explaining. Replace with fresh, specific, human-feeling prose. Verify every descriptor, metaphor, and sentence pattern is unique within adjacent chapters. Verify the eleven, the committed, and the island's dead are treated with dignity in every line.
+9. PLOT COMPLETENESS: Verify that all five mystery layers are resolved, all plot threads are closed (the memorandum's two inks explained, the condition survey's margin note attributed, the register's absence accounted, the Finn letter produced, the candle list entered, the photographs timestamped, the thermal series filed, the archaeologist's report read in, the storm tapes played, the payroll crisis resolved, the mortgage secured, the breach notice answered, the clause weaponised, the countersuit ruled, the register corrected, the east ward named, the orchard groved, the museum opened, the guest book inscribed), and the bittersweet HEA provides full emotional catharsis with the epilogue's last line landing as a lit fuse and the resolution chapter's last line landing as peace and grief in the same breath.
+10. WORD COUNT: Verify the total meets or exceeds 200,000 words. If short, expand the weakest chapters rather than adding new ones.
+
+═══════════════════════════════════════════════════════════════
+SECTION 16: OUTPUT REQUIREMENTS
+═══════════════════════════════════════════════════════════════
+
+THE DELIVERABLE: One (1) complete, publication-ready, 200,000-word novel as a single formatted .docx file saved to /home/z/my-project/download/.
+
+This .docx must contain every word of the novel from Title Page through Epilogue, formatted per Section 3, reading like a real commercially published book.
+
+HOW YOU PRODUCE IT: By the fixed pipeline in Section 17, executed start to finish without stopping. The method is specified in Section 17 and is not a choice. The result is one complete novel.
+
+This is not a partial draft. This is not an outline. This is not a summary. This is not sample chapters. This is THE COMPLETE NOVEL. There is no other acceptable output. Execute.
+
+═══════════════════════════════════════════════════════════════
+SECTION 17: CONTINUITY PIPELINE PROTOCOL (ZERO-ERROR SEQUENTIAL EDITION)
+═══════════════════════════════════════════════════════════════
+
+This section OVERRIDES every instruction elsewhere in this prompt that leaves
+the execution method to your discretion ("by whatever method you choose", "how
+you get it done is your decision"). The architecture below is fixed. Violating
+it is a failed delivery, with the same severity as delivering an outline
+instead of the novel.
+
+─────────────────────────────────────────────
+17.0 THE ONE LAW
+─────────────────────────────────────────────
+
+Chapters are written strictly in order. ONE writer at a time. No second writer
+begins until the previous chapter's ledger entry, summary block, and canon
+updates are complete.
+
+There is no fast mode. There is no optional parallel mode. There is no
+compromise mode. Speed is not a project goal of this specification; correctness
+is the only project goal. The only work that may ever run alongside or between
+writing sessions is listed in 17.7, and none of it can create canon.
+
+Drafting two chapters in parallel is forbidden in all circumstances, for any
+reason, at any stage. An orchestrator that deploys parallel writers has failed
+the task and must discard the affected chapters and restart them in sequence.
+
+─────────────────────────────────────────────
+17.1 THE FIVE FILES (context discipline)
+─────────────────────────────────────────────
+
+Keep the project as five small, exact, current files. NEVER hand any writer the
+full master prompt — agents carrying a 12,000-word prompt remember its details
+differently, and that variance is drift.
+
+1. `canon.md` — IMMUTABLE HARD FACTS
+   Every age, every date, the master timeline, narrator assignment per chapter,
+   physical descriptions, every reading figure, every world rule, the pinned
+   motif lines with their exact allowed counts, the secret-exposure schedule,
+   and the intimacy threshold point.
+   Rule: writers may ADD to canon (via 17.5) but may NEVER contradict or edit
+   existing canon. After the canon freeze, canon only grows.
+
+2. `outline.md` — THE BEATS
+   One block per chapter: scenes in order, the clue(s) planted, the state
+   changes required, and the EXIT CONDITION (what the next chapter is entitled
+   to assume). Frozen after planning; never edited during writing.
+
+3. `style_sheet.md` — SHORT AND STRICT
+   Voice rules per narrator, forbidden symbols and typography, formatting
+   rules. Keep it under ~1,500 words. This is the only part of the master
+   prompt every writer receives in full.
+
+4. `continuity_ledger.md` — THE LIVING RECORD (append-only; 17.2)
+
+5. `story_summary.md` — THE RUNNING SUMMARY (17.4)
+
+Each writer receives ONLY: the style sheet, its handoff card, and the canon
+sections it needs. Nothing else.
+
+─────────────────────────────────────────────
+17.2 THE LEDGER ENTRY (append after EVERY chapter, before the next begins)
+─────────────────────────────────────────────
+
+    ## CHAPTER N — [title] — [POV]
+    IN-WORLD TIME: start → end (date, hour, weather) + TIMELINE DELTA
+    CHARACTER POSITIONS: where each present character is at chapter end,
+      and their emotional state
+    FACTS ESTABLISHED: numbered, exact, one line each
+    NUMBERS STATED: every figure, count, sum, duration, distance, reading
+    MOTIF TALLY UPDATE: for each counted motif — the running total across
+      the book so far
+    OBJECTS: plot-critical objects and their holder/location after this chapter
+    KNOWLEDGE CHANGES: who now knows what; who still does not know what
+    SECRETS STATE: each protected secret — withheld / approached / exposed,
+      and by whom
+    RELATIONSHIP STATE: current escalation level; physical contact status
+      (storm nights only; memorial excepted; nothing beyond the pinned state)
+    PROMISES & THREATS: by whom, to whom, exact terms
+    PLANTED CLUES: what the reader now knows, and which layer it serves
+    OPEN THREADS: dangling at chapter end
+    CANON ADDITIONS PROPOSED: any new named character / date / object used
+      (see 17.5)
+
+The ledger is the interface between writers. The writer of chapter N+1 trusts
+only the ledger, the summary, the canon, and the previous chapter's text —
+never any agent's memory.
+
+─────────────────────────────────────────────
+17.3 THE HANDOFF CARD (assembled before writing chapter N)
+─────────────────────────────────────────────
+
+The orchestrator assembles this card. The writer receives the card plus the
+style sheet, and NOTHING else:
+
+1. Chapter N's block from outline.md (beats, clues to plant, and chapter
+   N−1's exit condition)
+2. The canon.md sections for this chapter's cast, locations, and rules
+3. The latest ledger entry + the current open-threads list
+4. story_summary.md IN FULL (all previous chapters)
+5. The PREVIOUS chapter's complete text (absolute minimum if context is
+   tight: its final 500 words verbatim)
+6. The MUST-NOT-CHANGE list: pinned facts, the current motif tally with
+   remaining allowances, current secret states, current intimacy state,
+   which clue layers have and have not opened
+
+A chapter written without a handoff card does not exist. If the orchestrator
+cannot assemble the card, the pipeline is broken and must be repaired before
+writing resumes.
+
+─────────────────────────────────────────────
+17.4 THE RUNNING SUMMARY (story_summary.md)
+─────────────────────────────────────────────
+
+Maintained by each chapter's OWN writer, immediately after finishing the
+chapter, while the text is fresh:
+
+- A ROLLING STATE header at the top, kept current at all times: where every
+  major character is, the state of every major thread, and what the reader
+  currently knows.
+- One block per chapter, 100–150 words: what happened, what changed, what it
+  set up.
+
+The next writer reads the FULL summary plus the previous chapter in full. The
+summary carries the distant past; the previous chapter supplies the immediate
+voice and texture. Never trust the summary for a fact the canon or ledger
+pins — the summary exists for orientation; the ledger and canon exist for
+truth. If they ever disagree, the ledger and canon win (17.9).
+
+─────────────────────────────────────────────
+17.5 THE CANON-ADD PROCEDURE (no surprise canon, ever)
+─────────────────────────────────────────────
+
+A writer may not introduce a named character, date, number, or named object
+that is not already in canon unless ALL of the following happen:
+
+1. The addition is recorded in the chapter's ledger entry under CANON
+   ADDITIONS PROPOSED;
+2. The addition is written into canon.md BEFORE the next chapter's handoff
+   card is assembled;
+3. The addition contradicts nothing already in canon.
+
+If a scene seems to require an invention that would contradict canon, the
+writer changes the scene — never the canon.
+
+─────────────────────────────────────────────
+17.6 THE FIVE-CHAPTER CHECKPOINT (checker → fixer → resume)
+─────────────────────────────────────────────
+
+After every 5 chapters — at chapters 5, 10, 15, 20, 25, 30, 35, 40, 45, and
+50 — and before ANY new chapter is written:
+
+1. CHECKER AGENT (read-only):
+   Compares the last five chapters' full text against canon.md, the ledger,
+   the outline, and the timeline. Sweeps every category in the ERROR TAXONOMY
+   (17.8). Outputs a numbered violation list, each item tagged BLOCKER or
+   MINOR. The checker MUST recount every counted motif from the actual text
+   (never trust the ledger's tally blindly — verify it), re-verify timeline
+   arithmetic across the five chapters, and verify positions, knowledge,
+   secrets, states, clue order, and open threads against the outline.
+2. FIXER AGENT:
+   Applies corrections in the EARLIEST chapter where each error was
+   introduced, then propagates the fix forward through the ledger, the
+   summary, and every later chapter touched. Never patch only the latest
+   occurrence — a contradiction patched late is a contradiction relocated.
+3. GATE:
+   No new chapter begins until the checker confirms zero open BLOCKERs and
+   the ledger, summary, and canon all reflect the applied fixes.
+
+During a checkpoint, nothing else writes. The five-chapter window is frozen
+while it is checked and fixed.
+
+─────────────────────────────────────────────
+17.7 WHAT MAY AND MAY NOT RUN IN PARALLEL (complete whitelist)
+─────────────────────────────────────────────
+
+MAY run in parallel (these consume continuity, they cannot create it):
+- read-only consistency checking
+- mechanical cleanup on LOCKED chapters: punctuation substitution, formatting
+  fixes. MECHANICAL SUBSTITUTIONS ONLY — a cleanup agent that rephrases
+  meaning, alters dialogue, or touches a fact has failed and its output is
+  discarded.
+
+NOTHING ELSE. Specifically forbidden:
+- drafting two chapters in parallel, in any configuration, at any stage
+- part-boundary or multi-writer modes of any kind
+- any ledger, summary, or canon write for a chapter not yet drafted
+- running a fixer or cleanup agent while a writer is drafting — writers only
+  ever see the post-fix state
+
+─────────────────────────────────────────────
+17.8 THE ERROR TAXONOMY (what "zero errors" means, precisely)
+─────────────────────────────────────────────
+
+Every checker sweep covers all twelve categories. The manuscript is error-free
+only when every category is clean:
+
+ 1. TIMELINE — event order or durations impossible or contradictory
+ 2. FACT — a pinned fact (number, date, age, description) contradicted
+ 3. POSITION — a character in two places, or relocating without travel
+ 4. KNOWLEDGE — a character acting on information they do not yet have
+ 5. SECRET — a protected secret stated or exposed before its scheduled point
+    (the dream before the hinge; the arithmetic before the orchard; the
+    epilogue's meaning stated anywhere at all)
+ 6. STATE ESCALATION — intimacy or relationship state advanced past its
+    pinned level, or advanced without its pinned trigger (touch outside a
+    storm night or the memorial; the kiss before the dawn confession)
+ 7. CLUE ORDER — a mystery layer opened early, or a clue used before planted
+ 8. MOTIF COUNT — a counted motif over or under its exact allowance
+ 9. CANON — contradiction of canon.md
+10. UNLOGGED — a named character, date, or object used but never added to
+    canon (surprise canon)
+11. VOICE — narrator register bleed, or voice inconsistent with the style sheet
+12. THREAD — a thread dropped without being tracked in the ledger (at the
+    final pass: a thread left without closure)
+
+Each checkpoint and the final pass report per-category: CLEAN, or the numbered
+violations found. ZERO ERRORS = all twelve categories CLEAN across the whole
+manuscript.
+
+─────────────────────────────────────────────
+17.9 CONFLICT RESOLUTION HIERARCHY
+─────────────────────────────────────────────
+
+Authority, highest first:
+1. a locked chapter's prose, as recorded in the ledger
+2. the continuity ledger entries
+3. canon.md (immutable facts)
+4. the outline's beats
+5. the running summary (orientation only — never truth)
+6. any single agent's memory (worth nothing)
+
+Rules:
+- If new prose contradicts the ledger or canon, the PROSE is wrong.
+- If the ledger and canon disagree, the checker decides at the next
+  checkpoint whether the chapter or the canon entry is the error, and the
+  fixer repairs the earliest occurrence.
+- No writer ever retcons a previous chapter. Writers FLAG; the fixer fixes.
+
+─────────────────────────────────────────────
+17.10 SUBAGENT CHARTER (inject into every writer prompt)
+─────────────────────────────────────────────
+
+1. Read your handoff card completely: summary, ledger, canon, previous
+   chapter, must-not-change list. Then write.
+2. Canon and ledger are truth. If your scene contradicts them, change the
+   scene.
+3. Log every canon addition before you rely on it. No surprise canon.
+4. Do not state a protected secret, advance the intimacy state, or open a
+   clue layer out of order — the must-not-change list governs you.
+5. Do not use a counted motif beyond its remaining allowance in the tally.
+6. You may not edit any previous chapter. You flag; the fixer fixes.
+7. Finish by writing your ledger entry and your summary block. A chapter
+   without a ledger entry does not exist.
+8. Your completion report lists: facts established, canon additions proposed,
+   motifs used (incrementing the tally), threads opened or closed, violations
+   flagged.
+
+─────────────────────────────────────────────
+17.11 THE FINAL VERIFICATION PASS (before assembly — mandatory)
+─────────────────────────────────────────────
+
+After the epilogue is written and the last five-chapter checkpoint is clean,
+and BEFORE any .docx assembly begins:
+
+ONE agent reads the ENTIRE manuscript from prologue to epilogue, in order,
+and performs:
+- TIMELINE REBUILD: reconstruct the full chronology from the ledger's
+  TIMELINE DELTAs; verify it against canon.md; fix impossibilities at the
+  earliest occurrence and propagate.
+- GLOBAL MOTIF RECOUNT: recount every counted motif across the WHOLE book
+  and enforce the exact counts in canon.md. When a count is wrong, prefer
+  cutting an extra occurrence over adding a missing one late.
+- CLUE ORDER AUDIT: verify every mystery layer opened in its pinned order,
+  and every clue used in the finale was planted earlier in the text.
+- THREAD CLOSURE AUDIT: verify every thread recorded in the ledger has a
+  closing scene.
+- STATE AUDIT: verify secrets were exposed exactly at their scheduled points,
+  the intimacy threshold held to its pinned point, and the POV structure
+  matches canon.
+- VOICE AUDIT: verify each narrator's register held from first chapter to last.
+
+Output: the ZERO-ERROR REPORT — per taxonomy category, per chapter: CLEAN or
+violations. The fixer repairs, the same agent re-verifies, and the loop
+repeats. THE .DOCX IS ASSEMBLED ONLY WHEN THE REPORT SHOWS ZERO OPEN
+BLOCKERS IN ALL TWELVE CATEGORIES. A manuscript assembled earlier is a failed
+deliverable, whatever its word count.
+
+─────────────────────────────────────────────
+17.12 WHY SEQUENTIAL IS NON-NEGOTIABLE (anti-optimization block)
+─────────────────────────────────────────────
+
+You may be tempted to draft chapters in parallel and reconcile them afterward.
+Do not. Two writers drafting blind create two competing canons; reconciling
+them costs more than sequential writing ever saved, and the seams stay visible
+in the finished book forever. No parallel configuration — batches, parts,
+strands, waves — has ever produced a single-canon book, and you are not
+permitted to experiment here. The deliverable is not 50 chapters. It is 50
+chapters that are the SAME book.
+
+═══════════════════════════════════════════════════════════════
+SECTION 17B: OVERRIDES TO EXISTING SECTIONS (READ AND APPLY)
+═══════════════════════════════════════════════════════════════
+
+1. SUPREMACY CLAUSE: If any sentence anywhere in this prompt appears to
+   authorize, permit, or encourage an execution method that contradicts
+   Section 17, that sentence is void, and Section 17 governs. Section 17
+   cannot be waived, relaxed, or optimized away by you or by any subagent.
+
+2. METHOD LOCK: Wherever this prompt says "by whatever method you choose" or
+   "how you get it done is your decision", read instead: "by the fixed
+   pipeline in Section 17". The method is specified. It is not a choice.
+
+3. SUBAGENT INJECTION: Every writer, checker, and fixer subagent prompt MUST
+   include the Subagent Charter (17.10) and the files it needs. A subagent
+   deployed without its handoff card or charter is a failed deployment. If
+   you cannot deploy an agent correctly, do not deploy it.
+
+4. FINAL REMINDER — the following four lines are added to the FINAL REMINDER
+   list and carry the same force as the others:
+   - Do NOT draft two chapters in parallel at any stage
+   - Do NOT begin any chapter before its handoff card exists
+   - Do NOT skip a five-chapter checkpoint or resume writing with open
+     BLOCKERs
+   - Do NOT assemble the .docx before the Final Verification Pass reports
+     zero open errors in all twelve categories
+
+═══════════════════════════════════════════════════════════════
+
+FINAL REMINDER:
+
+- Do NOT skip steps
+- Do NOT deliver planning documents in place of the novel
+- Do NOT offer alternatives
+- Do NOT stop early
+- Do NOT ask for permission to continue
+- Do NOT estimate time or predict difficulty
+- Do NOT produce a partial deliverable
+- Do NOT explain why you cannot do this (you can, and you will)
+- Do NOT draft two chapters in parallel at any stage, in any configuration
+- Do NOT begin any chapter before its handoff card exists
+- Do NOT skip a five-chapter checkpoint or resume writing with open BLOCKERs
+- Do NOT assemble the .docx before the Final Verification Pass reports zero open errors in all twelve categories
+
+COMPLETE THE NOVEL. DELIVER THE .DOCX.
+EXECUTE NOW.
